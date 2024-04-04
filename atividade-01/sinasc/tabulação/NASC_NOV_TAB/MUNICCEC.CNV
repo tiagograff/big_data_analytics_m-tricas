@@ -1,0 +1,189 @@
+    186  6                                                        
+      1  Abaiara                                            230010
+      2  Acarapé                                            230015
+      3  Acaraú                                             230020
+      4  Acopiara                                           230030
+      5  Aiuaba                                             230040
+      6  Alcântaras                                         230050
+      7  Altaneira                                          230060
+      8  Alto Santo                                         230070
+      9  Amontada                                           230075
+     10  Antonina do Norte                                  230080
+     11  Apuiarés                                           230090
+     12  Aquiraz                                            230100
+     13  Aracati                                            230110
+     14  Aracoiaba                                          230120
+     15  Ararendá                                           230125
+     16  Araripe                                            230130
+     17  Aratuba                                            230140
+     18  Arneiroz                                           230150
+     19  Assaré                                             230160
+     20  Aurora                                             230170
+     21  Baixio                                             230180
+     22  Banabuiú                                           230185
+     23  Barbalha                                           230190
+     24  Barreira                                           230195
+     25  Barro                                              230200
+     26  Barroquinha                                        230205
+     27  Baturité                                           230210
+     28  Beberibe                                           230220
+     29  Bela Cruz                                          230230
+     30  Boa Viagem                                         230240
+     31  Brejo Santo                                        230250
+     32  Camocim                                            230260
+     33  Campos Sales                                       230270
+     34  Canindé                                            230280
+     35  Capistrano                                         230290
+     36  Caridade                                           230300
+     37  Cariré                                             230310
+     38  Caririaçu                                          230320
+     39  Cariús                                             230330
+     40  Carnaubal                                          230340
+     41  Cascavel                                           230350
+     42  Catarina                                           230360
+     43  Catunda                                            230365
+     44  Caucaia                                            230370
+     45  Cedro                                              230380
+     46  Chaval                                             230390
+     47  Choró                                              230393
+     48  Chorozinho                                         230395
+     49  Coreaú                                             230400
+     50  Crateús                                            230410
+     51  Crato                                              230420
+     52  Croatá                                             230423
+     53  Cruz                                               230425
+     54  Deputado Irapuan Pinheiro                          230426
+     55  Ererê                                              230427
+     56  Eusébio                                            230428
+     57  Farias Brito                                       230430
+     58  Forquilha                                          230435
+     59  Fortaleza                                          230440
+     60  Fortim                                             230445
+     61  Frecheirinha                                       230450
+     62  General Sampaio                                    230460
+     63  Graça                                              230465
+     64  Granja                                             230470
+     65  Granjeiro                                          230480
+     66  Groaíras                                           230490
+     67  Guaiúba                                            230495
+     68  Guaraciaba do Norte                                230500
+     69  Guaramiranga                                       230510
+     70  Hidrolândia                                        230520
+     71  Horizonte                                          230523
+     72  Ibaretama                                          230526
+     73  Ibiapina                                           230530
+     74  Ibicuitinga                                        230533
+     75  Icapuí                                             230535
+     76  Icó                                                230540
+     77  Iguatu                                             230550
+     78  Independência                                      230560
+     79  Ipaporanga                                         230565
+     80  Ipaumirim                                          230570
+     81  Ipu                                                230580
+     82  Ipueiras                                           230590
+     83  Iracema                                            230600
+     84  Irauçuba                                           230610
+     85  Itaiçaba                                           230620
+     86  Itaitinga                                          230625
+     87  Itapagé                                            230630
+     88  Itapipoca                                          230640
+     89  Itapiúna                                           230650
+     90  Itarema                                            230655
+     91  Itatira                                            230660
+     92  Jaguaretama                                        230670
+     93  Jaguaribara                                        230680
+     94  Jaguaribe                                          230690
+     95  Jaguaruana                                         230700
+     96  Jardim                                             230710
+     97  Jati                                               230720
+     98  Jijoca de Jericoacoara                             230725
+     99  Juazeiro do Norte                                  230730
+    100  Jucás                                              230740
+    101  Lavras da Mangabeira                               230750
+    102  Limoeiro do Norte                                  230760
+    103  Madalena                                           230763
+    104  Maracanaú                                          230765
+    105  Maranguape                                         230770
+    106  Marco                                              230780
+    107  Martinópole                                        230790
+    108  Massapê                                            230800
+    109  Mauriti                                            230810
+    110  Meruoca                                            230820
+    111  Milagres                                           230830
+    112  Milhã                                              230835
+    113  Miraíma                                            230837
+    114  Missão Velha                                       230840
+    115  Mombaça                                            230850
+    116  Monsenhor Tabosa                                   230860
+    117  Morada Nova                                        230870
+    118  Moraújo                                            230880
+    119  Morrinhos                                          230890
+    120  Mucambo                                            230900
+    121  Mulungu                                            230910
+    122  Nova Olinda                                        230920
+    123  Nova Russas                                        230930
+    124  Novo Oriente                                       230940
+    125  Ocara                                              230945
+    126  Orós                                               230950
+    127  Pacajus                                            230960
+    128  Pacatuba                                           230970
+    129  Pacoti                                             230980
+    130  Pacujá                                             230990
+    131  Palhano                                            231000
+    132  Palmácia                                           231010
+    133  Paracuru                                           231020
+    134  Paraipaba                                          231025
+    135  Parambu                                            231030
+    136  Paramoti                                           231040
+    137  Pedra Branca                                       231050
+    138  Penaforte                                          231060
+    139  Pentecoste                                         231070
+    140  Pereiro                                            231080
+    141  Pindoretama                                        231085
+    142  Piquet Carneiro                                    231090
+    143  Pires Ferreira                                     231095
+    144  Poranga                                            231100
+    145  Porteiras                                          231110
+    146  Potengi                                            231120
+    147  Potiretama                                         231123
+    148  Quiterianópolis                                    231126
+    149  Quixadá                                            231130
+    150  Quixelô                                            231135
+    151  Quixeramobim                                       231140
+    152  Quixeré                                            231150
+    153  Redenção                                           231160
+    154  Reriutaba                                          231170
+    155  Russas                                             231180
+    156  Saboeiro                                           231190
+    157  Salitre                                            231195
+    158  Santa Quitéria                                     231220
+    159  Santana do Acaraú                                  231200
+    160  Santana do Cariri                                  231210
+    161  São Benedito                                       231230
+    162  São Gonçalo do Amarante                            231240
+    163  São João do Jaguaribe                              231250
+    164  São Luís do Curu                                   231260
+    165  Senador Pompeu                                     231270
+    166  Senador Sá                                         231280
+    167  Sobral                                             231290
+    168  Solonópole                                         231300
+    169  Tabuleiro do Norte                                 231310
+    170  Tamboril                                           231320
+    171  Tarrafas                                           231325
+    172  Tauá                                               231330
+    173  Tejuçuoca                                          231335
+    174  Tianguá                                            231340
+    175  Trairi                                             231350
+    176  Tururu                                             231355
+    177  Ubajara                                            231360
+    178  Umari                                              231370
+    179  Umirim                                             231375
+    180  Uruburetama                                        231380
+    181  Uruoca                                             231390
+    182  Varjota                                            231395
+    183  Várzea Alegre                                      231400
+    184  Viçosa do Ceará                                    231410
+    185  Município ignorado - CE                            230000
+    185  Município ignorado - CE                            239999
+    186  Rio Real (BA)                                      292700
+

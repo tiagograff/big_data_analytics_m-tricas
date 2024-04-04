@@ -1,0 +1,420 @@
+     33  6                                                        
+      1  29001 Barreiras                                    290250
+      1  29001 Barreiras                                    290320
+      1  29001 Barreiras                                    290740
+      1  29001 Barreiras                                    291110
+      1  29001 Barreiras                                    292620
+      1  29001 Barreiras                                    292890
+      2  29002 Cotegipe                                     290140
+      2  29002 Cotegipe                                     290440
+      2  29002 Cotegipe                                     290940
+      2  29002 Cotegipe                                     290970
+      2  29002 Cotegipe                                     292045
+      2  29002 Cotegipe                                     292840
+      2  29002 Cotegipe                                     293090
+      2  29002 Cotegipe                                     293345
+      3  29003 S Maria Vitória                              290610
+      3  29003 S Maria Vitória                              290810
+      3  29003 S Maria Vitória                              290910
+      3  29003 S Maria Vitória                              290930
+      3  29003 S Maria Vitória                              291735
+      3  29003 S Maria Vitória                              292810
+      3  29003 S Maria Vitória                              292820
+      3  29003 S Maria Vitória                              292905
+      3  29003 S Maria Vitória                              293030
+      4  29004 Juazeiro                                     290590
+      4  29004 Juazeiro                                     290720
+      4  29004 Juazeiro                                     290990
+      4  29004 Juazeiro                                     291840
+      4  29004 Juazeiro                                     292440
+      4  29004 Juazeiro                                     292600
+      4  29004 Juazeiro                                     293020
+      4  29004 Juazeiro                                     293077
+      5  29005 Paulo Afonso                                 290020
+      5  29005 Paulo Afonso                                 290770
+      5  29005 Paulo Afonso                                 291140
+      5  29005 Paulo Afonso                                 291990
+      5  29005 Paulo Afonso                                 292400
+      5  29005 Paulo Afonso                                 292710
+      6  29006 Barra                                        290270
+      6  29006 Barra                                        290475
+      6  29006 Barra                                        291320
+      6  29006 Barra                                        291535
+      6  29006 Barra                                        292160
+      6  29006 Barra                                        292225
+      6  29006 Barra                                        293360
+      7  29007 B Jesus da Lapa                              290390
+      7  29007 B Jesus da Lapa                              290710
+      7  29007 B Jesus da Lapa                              291077
+      7  29007 B Jesus da Lapa                              292370
+      7  29007 B Jesus da Lapa                              293015
+      7  29007 B Jesus da Lapa                              293075
+      8  29008 Senhor Bonfim                                290135
+      8  29008 Senhor Bonfim                                290180
+      8  29008 Senhor Bonfim                                290600
+      8  29008 Senhor Bonfim                                291085
+      8  29008 Senhor Bonfim                                291700
+      8  29008 Senhor Bonfim                                291770
+      8  29008 Senhor Bonfim                                292460
+      8  29008 Senhor Bonfim                                293010
+      8  29008 Senhor Bonfim                                293245
+      9  29009 Irecê                                        290115
+      9  29009 Irecê                                        290300
+      9  29009 Irecê                                        290323
+      9  29009 Irecê                                        290530
+      9  29009 Irecê                                        290620
+      9  29009 Irecê                                        290760
+      9  29009 Irecê                                        291130
+      9  29009 Irecê                                        291240
+      9  29009 Irecê                                        291310
+      9  29009 Irecê                                        291440
+      9  29009 Irecê                                        291460
+      9  29009 Irecê                                        291835
+      9  29009 Irecê                                        291850
+      9  29009 Irecê                                        291915
+      9  29009 Irecê                                        292205
+      9  29009 Irecê                                        292560
+      9  29009 Irecê                                        292925
+      9  29009 Irecê                                        293080
+      9  29009 Irecê                                        293240
+     10  29010 Jacobina                                     290510
+     10  29010 Jacobina                                     290550
+     10  29010 Jacobina                                     290687
+     10  29010 Jacobina                                     291750
+     10  29010 Jacobina                                     292120
+     10  29010 Jacobina                                     292140
+     10  29010 Jacobina                                     292170
+     10  29010 Jacobina                                     292335
+     10  29010 Jacobina                                     292480
+     10  29010 Jacobina                                     292525
+     10  29010 Jacobina                                     292593
+     10  29010 Jacobina                                     292937
+     10  29010 Jacobina                                     292980
+     10  29010 Jacobina                                     293060
+     10  29010 Jacobina                                     293310
+     10  29010 Jacobina                                     293315
+     11  29011 Itaberaba                                    290260
+     11  29011 Itaberaba                                    290380
+     11  29011 Itaberaba                                    291190
+     11  29011 Itaberaba                                    291260
+     11  29011 Itaberaba                                    291470
+     11  29011 Itaberaba                                    291900
+     11  29011 Itaberaba                                    291960
+     11  29011 Itaberaba                                    292010
+     11  29011 Itaberaba                                    292210
+     11  29011 Itaberaba                                    292720
+     11  29011 Itaberaba                                    293130
+     11  29011 Itaberaba                                    293305
+     12  29012 F Santana                                    290040
+     12  29012 F Santana                                    290150
+     12  29012 F Santana                                    290170
+     12  29012 F Santana                                    290820
+     12  29012 F Santana                                    290850
+     12  29012 F Santana                                    290890
+     12  29012 F Santana                                    291030
+     12  29012 F Santana                                    291080
+     12  29012 F Santana                                    291380
+     12  29012 F Santana                                    291400
+     12  29012 F Santana                                    291450
+     12  29012 F Santana                                    291685
+     12  29012 F Santana                                    292330
+     12  29012 F Santana                                    292410
+     12  29012 F Santana                                    292465
+     12  29012 F Santana                                    292595
+     12  29012 F Santana                                    292750
+     12  29012 F Santana                                    292830
+     12  29012 F Santana                                    292850
+     12  29012 F Santana                                    292880
+     12  29012 F Santana                                    292930
+     12  29012 F Santana                                    293040
+     12  29012 F Santana                                    293110
+     12  29012 F Santana                                    293140
+     13  29013 Jeremoabo                                    290920
+     13  29013 Jeremoabo                                    291810
+     13  29013 Jeremoabo                                    292420
+     13  29013 Jeremoabo                                    292760
+     13  29013 Jeremoabo                                    293076
+     14  29014 Euclides Cunha                               290680
+     14  29014 Euclides Cunha                               290682
+     14  29014 Euclides Cunha                               291070
+     14  29014 Euclides Cunha                               292150
+     14  29014 Euclides Cunha                               292265
+     14  29014 Euclides Cunha                               292580
+     14  29014 Euclides Cunha                               292590
+     14  29014 Euclides Cunha                               293190
+     14  29014 Euclides Cunha                               293200
+     15  29015 Ribeira Pombal                               290035
+     15  29015 Ribeira Pombal                               290160
+     15  29015 Ribeira Pombal                               290265
+     15  29015 Ribeira Pombal                               290780
+     15  29015 Ribeira Pombal                               290790
+     15  29015 Ribeira Pombal                               291075
+     15  29015 Ribeira Pombal                               291185
+     15  29015 Ribeira Pombal                               291650
+     15  29015 Ribeira Pombal                               292290
+     15  29015 Ribeira Pombal                               292305
+     15  29015 Ribeira Pombal                               292310
+     15  29015 Ribeira Pombal                               292380
+     15  29015 Ribeira Pombal                               292650
+     15  29015 Ribeira Pombal                               292660
+     16  29016 Serrinha                                     290210
+     16  29016 Serrinha                                     290360
+     16  29016 Serrinha                                     290640
+     16  29016 Serrinha                                     290685
+     16  29016 Serrinha                                     290840
+     16  29016 Serrinha                                     291125
+     16  29016 Serrinha                                     291330
+     16  29016 Serrinha                                     291910
+     16  29016 Serrinha                                     292273
+     16  29016 Serrinha                                     292405
+     16  29016 Serrinha                                     292610
+     16  29016 Serrinha                                     292630
+     16  29016 Serrinha                                     292800
+     16  29016 Serrinha                                     292895
+     16  29016 Serrinha                                     293050
+     16  29016 Serrinha                                     293150
+     16  29016 Serrinha                                     293300
+     17  29017 Alagoinhas                                   290030
+     17  29017 Alagoinhas                                   290070
+     17  29017 Alagoinhas                                   290190
+     17  29017 Alagoinhas                                   290205
+     17  29017 Alagoinhas                                   290220
+     17  29017 Alagoinhas                                   290960
+     17  29017 Alagoinhas                                   291370
+     17  29017 Alagoinhas                                   292700
+     17  29017 Alagoinhas                                   292970
+     18  29018 Entre Rios                                   290700
+     18  29018 Entre Rios                                   290860
+     18  29018 Entre Rios                                   291050
+     18  29018 Entre Rios                                   291060
+     18  29018 Entre Rios                                   291790
+     19  29019 Catu                                         290110
+     19  29019 Catu                                         290750
+     19  29019 Catu                                         291590
+     19  29019 Catu                                         292100
+     19  29019 Catu                                         292520
+     19  29019 Catu                                         292950
+     19  29019 Catu                                         293170
+     20  29020 S Antônio Jesus                              290230
+     20  29020 S Antônio Jesus                              290485
+     20  29020 S Antônio Jesus                              290490
+     20  29020 S Antônio Jesus                              290730
+     20  29020 S Antônio Jesus                              290830
+     20  29020 S Antônio Jesus                              290980
+     20  29020 S Antônio Jesus                              291020
+     20  29020 S Antônio Jesus                              291160
+     20  29020 S Antônio Jesus                              291780
+     20  29020 S Antônio Jesus                              292060
+     20  29020 S Antônio Jesus                              292220
+     20  29020 S Antônio Jesus                              292230
+     20  29020 S Antônio Jesus                              292250
+     20  29020 S Antônio Jesus                              292730
+     20  29020 S Antônio Jesus                              292860
+     20  29020 S Antônio Jesus                              292870
+     20  29020 S Antônio Jesus                              292900
+     20  29020 S Antônio Jesus                              292910
+     20  29020 S Antônio Jesus                              292960
+     20  29020 S Antônio Jesus                              292975
+     20  29020 S Antônio Jesus                              293317
+     21  29021 Salvador                                     290570
+     21  29021 Salvador                                     290650
+     21  29021 Salvador                                     291005
+     21  29021 Salvador                                     291610
+     21  29021 Salvador                                     291920
+     21  29021 Salvador                                     291992
+     21  29021 Salvador                                     292740
+     21  29021 Salvador                                     292920
+     21  29021 Salvador                                     293070
+     21  29021 Salvador                                     293320
+     22  29022 Boquira                                      290410
+     22  29022 Boquira                                      290420
+     22  29022 Boquira                                      290450
+     22  29022 Boquira                                      290755
+     22  29022 Boquira                                      291250
+     22  29022 Boquira                                      291300
+     22  29022 Boquira                                      291410
+     22  29022 Boquira                                      291980
+     22  29022 Boquira                                      292303
+     22  29022 Boquira                                      292320
+     22  29022 Boquira                                      293105
+     23  29023 Seabra                                       290010
+     23  29023 Seabra                                       290130
+     23  29023 Seabra                                       290280
+     23  29023 Seabra                                       290400
+     23  29023 Seabra                                       290405
+     23  29023 Seabra                                       290880
+     23  29023 Seabra                                       291220
+     23  29023 Seabra                                       291500
+     23  29023 Seabra                                       291860
+     23  29023 Seabra                                       291930
+     23  29023 Seabra                                       292190
+     23  29023 Seabra                                       292285
+     23  29023 Seabra                                       292350
+     23  29023 Seabra                                       292430
+     23  29023 Seabra                                       292670
+     23  29023 Seabra                                       292990
+     23  29023 Seabra                                       293280
+     23  29023 Seabra                                       293340
+     24  29024 Jequié                                       290060
+     24  29024 Jequié                                       290100
+     24  29024 Jequié                                       290195
+     24  29024 Jequié                                       290430
+     24  29024 Jequié                                       290950
+     24  29024 Jequié                                       291420
+     24  29024 Jequié                                       291430
+     24  29024 Jequié                                       291510
+     24  29024 Jequié                                       291670
+     24  29024 Jequié                                       291690
+     24  29024 Jequié                                       291760
+     24  29024 Jequié                                       291800
+     24  29024 Jequié                                       291820
+     24  29024 Jequié                                       291830
+     24  29024 Jequié                                       291870
+     24  29024 Jequié                                       291880
+     24  29024 Jequié                                       291905
+     24  29024 Jequié                                       292050
+     24  29024 Jequié                                       292080
+     24  29024 Jequié                                       292130
+     24  29024 Jequié                                       292240
+     24  29024 Jequié                                       292280
+     24  29024 Jequié                                       292490
+     24  29024 Jequié                                       292790
+     24  29024 Jequié                                       292940
+     24  29024 Jequié                                       293210
+     25  29025 Livr.Brumado                                 290050
+     25  29025 Livr.Brumado                                 291010
+     25  29025 Livr.Brumado                                 291950
+     25  29025 Livr.Brumado                                 292360
+     25  29025 Livr.Brumado                                 292690
+     26  29026 Guanambi                                     290500
+     26  29026 Guanambi                                     290520
+     26  29026 Guanambi                                     290660
+     26  29026 Guanambi                                     291170
+     26  29026 Guanambi                                     291200
+     26  29026 Guanambi                                     291340
+     26  29026 Guanambi                                     291733
+     26  29026 Guanambi                                     291740
+     26  29026 Guanambi                                     291875
+     26  29026 Guanambi                                     291940
+     26  29026 Guanambi                                     292020
+     26  29026 Guanambi                                     292105
+     26  29026 Guanambi                                     292180
+     26  29026 Guanambi                                     292340
+     26  29026 Guanambi                                     292450
+     26  29026 Guanambi                                     292640
+     26  29026 Guanambi                                     293000
+     26  29026 Guanambi                                     293260
+     27  29027 Brumado                                      290200
+     27  29027 Brumado                                      290460
+     27  29027 Brumado                                      290689
+     27  29027 Brumado                                      290870
+     27  29027 Brumado                                      290900
+     27  29027 Brumado                                      291165
+     27  29027 Brumado                                      291720
+     27  29027 Brumado                                      291995
+     27  29027 Brumado                                      292030
+     27  29027 Brumado                                      292470
+     27  29027 Brumado                                      292570
+     27  29027 Brumado                                      292680
+     27  29027 Brumado                                      293100
+     27  29027 Brumado                                      293180
+     28  29028 Vit.Conquista                                290120
+     28  29028 Vit.Conquista                                290290
+     28  29028 Vit.Conquista                                290350
+     28  29028 Vit.Conquista                                290370
+     28  29028 Vit.Conquista                                290395
+     28  29028 Vit.Conquista                                290480
+     28  29028 Vit.Conquista                                290515
+     28  29028 Vit.Conquista                                290670
+     28  29028 Vit.Conquista                                291000
+     28  29028 Vit.Conquista                                291230
+     28  29028 Vit.Conquista                                291350
+     28  29028 Vit.Conquista                                292040
+     28  29028 Vit.Conquista                                292145
+     28  29028 Vit.Conquista                                292270
+     28  29028 Vit.Conquista                                292500
+     28  29028 Vit.Conquista                                292510
+     28  29028 Vit.Conquista                                293330
+     29  29029 Itapetinga                                   291040
+     29  29029 Itapetinga                                   291580
+     29  29029 Itapetinga                                   291640
+     29  29029 Itapetinga                                   291680
+     29  29029 Itapetinga                                   291710
+     29  29029 Itapetinga                                   291970
+     29  29029 Itapetinga                                   292000
+     29  29029 Itapetinga                                   292540
+     29  29029 Itapetinga                                   292665
+     30  29030 Valença                                      290540
+     30  29030 Valença                                      290580
+     30  29030 Valença                                      291345
+     30  29030 Valença                                      291730
+     30  29030 Valença                                      292070
+     30  29030 Valença                                      292260
+     30  29030 Valença                                      292467
+     30  29030 Valença                                      292575
+     30  29030 Valença                                      293120
+     30  29030 Valença                                      293290
+     31  29031 Ilhéus-Itabuna                               290090
+     31  29031 Ilhéus-Itabuna                               290225
+     31  29031 Ilhéus-Itabuna                               290240
+     31  29031 Ilhéus-Itabuna                               290310
+     31  29031 Ilhéus-Itabuna                               290330
+     31  29031 Ilhéus-Itabuna                               290340
+     31  29031 Ilhéus-Itabuna                               290470
+     31  29031 Ilhéus-Itabuna                               290560
+     31  29031 Ilhéus-Itabuna                               290630
+     31  29031 Ilhéus-Itabuna                               290800
+     31  29031 Ilhéus-Itabuna                               291090
+     31  29031 Ilhéus-Itabuna                               291100
+     31  29031 Ilhéus-Itabuna                               291120
+     31  29031 Ilhéus-Itabuna                               291150
+     31  29031 Ilhéus-Itabuna                               291210
+     31  29031 Ilhéus-Itabuna                               291270
+     31  29031 Ilhéus-Itabuna                               291290
+     31  29031 Ilhéus-Itabuna                               291360
+     31  29031 Ilhéus-Itabuna                               291390
+     31  29031 Ilhéus-Itabuna                               291480
+     31  29031 Ilhéus-Itabuna                               291490
+     31  29031 Ilhéus-Itabuna                               291520
+     31  29031 Ilhéus-Itabuna                               291540
+     31  29031 Ilhéus-Itabuna                               291550
+     31  29031 Ilhéus-Itabuna                               291570
+     31  29031 Ilhéus-Itabuna                               291620
+     31  29031 Ilhéus-Itabuna                               291630
+     31  29031 Ilhéus-Itabuna                               291660
+     31  29031 Ilhéus-Itabuna                               291855
+     31  29031 Ilhéus-Itabuna                               292090
+     31  29031 Ilhéus-Itabuna                               292275
+     31  29031 Ilhéus-Itabuna                               292390
+     31  29031 Ilhéus-Itabuna                               292780
+     31  29031 Ilhéus-Itabuna                               292805
+     31  29031 Ilhéus-Itabuna                               292935
+     31  29031 Ilhéus-Itabuna                               293160
+     31  29031 Ilhéus-Itabuna                               293220
+     31  29031 Ilhéus-Itabuna                               293230
+     31  29031 Ilhéus-Itabuna                               293250
+     31  29031 Ilhéus-Itabuna                               293270
+     31  29031 Ilhéus-Itabuna                               293350
+     32  29032 Porto Seguro                                 290080
+     32  29032 Porto Seguro                                 290690
+     32  29032 Porto Seguro                                 291072
+     32  29032 Porto Seguro                                 291180
+     32  29032 Porto Seguro                                 291280
+     32  29032 Porto Seguro                                 291465
+     32  29032 Porto Seguro                                 291530
+     32  29032 Porto Seguro                                 291560
+     32  29032 Porto Seguro                                 291600
+     32  29032 Porto Seguro                                 291845
+     32  29032 Porto Seguro                                 291890
+     32  29032 Porto Seguro                                 292110
+     32  29032 Porto Seguro                                 292200
+     32  29032 Porto Seguro                                 292300
+     32  29032 Porto Seguro                                 292530
+     32  29032 Porto Seguro                                 292550
+     32  29032 Porto Seguro                                 292770
+     32  29032 Porto Seguro                                 293135
+     32  29032 Porto Seguro                                 293325
+     33  29000 Ignorado - BA                                290000
+     33  29000 Ignorado - BA                                290327
+     33  29000 Ignorado - BA                                291955
+

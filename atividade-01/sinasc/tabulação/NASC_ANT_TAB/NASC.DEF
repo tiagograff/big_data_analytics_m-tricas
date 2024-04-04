@@ -1,0 +1,214 @@
+; Nascidos Vivos - Brasil
+ADNR*.DBC
+;
+; Definições para Ano e Mês do Registro
+;
+XAno do Registro,    DATA_CART,  3,  ANO.CNV
+XMês do Registro,    DATA_CART,  5,  MESES.CNV
+;
+; Definições para UF informante
+;
+DUF informante,      UFINFORM,   1,  BR_UF.CNV
+CUF informante,      UFINFORM,   1,  BR_UF.CNV
+SUF informante,      UFINFORM,   1,  BR_UF.CNV
+;
+; Definições do Local de Ocorrência
+;
+XLocal Ocorrência,   LOCAL_OCOR, 1,  LOCOCOR.CNV
+;
+; Definições município de ocorrência do nascimento
+;
+LPaís Ocor,          MUNI_OCOR,  1,  PAISES.CNV
+SPaís Ocor,          MUNI_OCOR,  1,  PAISES.CNV
+LUF Ocorrência,      MUNI_OCOR,  1,  BR_UF.CNV
+LUF Ocorr Sigla,     MUNI_OCOR,  1,  BR_UFSIGLA.CNV
+CUF Ocorrência,      MUNI_OCOR,  1,  BR_UFSIGLA.CNV
+SUF Ocorrência,      MUNI_OCOR,  1,  BR_UF.CNV
+LRegião Ocorrência,  MUNI_OCOR,  1,  BR_REGIAO.CNV
+CRegião Ocorrência,  MUNI_OCOR,  1,  BR_REGIAOC.CNV
+SRegião Ocorrência,  MUNI_OCOR,  1,  BR_REGIAO.CNV
+LRegião/UF Ocorr,    MUNI_OCOR,  1,  BR_REGIAOUF.CNV
+XMunic Ocorr - BR,   MUNI_OCOR,  1,  BR_MUNICIP.CNV
+XMunic Ocorr - AC,   MUNI_OCOR,  1,  AC_MUNICIP.CNV
+XMunic Ocorr - AL,   MUNI_OCOR,  1,  AL_MUNICIP.CNV
+XMunic Ocorr - AM,   MUNI_OCOR,  1,  AM_MUNICIP.CNV
+XMunic Ocorr - AP,   MUNI_OCOR,  1,  AP_MUNICIP.CNV
+XMunic Ocorr - BA,   MUNI_OCOR,  1,  BA_MUNICIP.CNV
+XMunic Ocorr - CE,   MUNI_OCOR,  1,  CE_MUNICIP.CNV
+XMunic Ocorr - DF,   MUNI_OCOR,  1,  DF_MUNICIP.CNV
+XMunic Ocorr - ES,   MUNI_OCOR,  1,  ES_MUNICIP.CNV
+XMunic Ocorr - GO,   MUNI_OCOR,  1,  GO_MUNICIP.CNV
+XMunic Ocorr - MA,   MUNI_OCOR,  1,  MA_MUNICIP.CNV
+XMunic Ocorr - MG,   MUNI_OCOR,  1,  MG_MUNICIP.CNV
+XMunic Ocorr - MS,   MUNI_OCOR,  1,  MS_MUNICIP.CNV
+XMunic Ocorr - MT,   MUNI_OCOR,  1,  MT_MUNICIP.CNV
+XMunic Ocorr - PA,   MUNI_OCOR,  1,  PA_MUNICIP.CNV
+XMunic Ocorr - PB,   MUNI_OCOR,  1,  PB_MUNICIP.CNV
+XMunic Ocorr - PE,   MUNI_OCOR,  1,  PE_MUNICIP.CNV
+XMunic Ocorr - PI,   MUNI_OCOR,  1,  PI_MUNICIP.CNV
+XMunic Ocorr - PR,   MUNI_OCOR,  1,  PR_MUNICIP.CNV
+XMunic Ocorr - RJ,   MUNI_OCOR,  1,  RJ_MUNICIP.CNV
+XMunic Ocorr - RN,   MUNI_OCOR,  1,  RN_MUNICIP.CNV
+XMunic Ocorr - RO,   MUNI_OCOR,  1,  RO_MUNICIP.CNV
+XMunic Ocorr - RR,   MUNI_OCOR,  1,  RR_MUNICIP.CNV
+XMunic Ocorr - RS,   MUNI_OCOR,  1,  RS_MUNICIP.CNV
+XMunic Ocorr - SC,   MUNI_OCOR,  1,  SC_MUNICIP.CNV
+XMunic Ocorr - SE,   MUNI_OCOR,  1,  SE_MUNICIP.CNV
+XMunic Ocorr - SP,   MUNI_OCOR,  1,  SP_MUNICIP.CNV
+XMunic Ocorr - TO,   MUNI_OCOR,  1,  TO_MUNICIP.CNV
+LCapital Ocorr,      MUNI_OCOR,  1,  BR_CAPITAL.CNV
+CCapital Ocorr,      MUNI_OCOR,  1,  BR_CAPITALC.CNV
+SCapital Ocorr,      MUNI_OCOR,  1,  BR_CAPITAL.CNV
+LReg.Saúde Ocorr,    MUNI_OCOR,  1,  BR_REGSAUD.CNV
+LMacr.Reg.Saúde Oco, MUNI_OCOR,  1,  BR_MACSAUD.CNV
+LDiv.Adm. Ocorr,     MUNI_OCOR,  1,  BR_DIVADM.CNV
+LMicr.IBGE Ocorr,    MUNI_OCOR,  1,  BR_MICIBGE.CNV
+LReg.Metr Ocorr,     MUNI_OCOR,  1,  BR_REGMETR.CNV
+LTerr.Cidad.Ocorr,   MUNI_OCOR,  1,  BR_TERRCID.CNV
+LMacr.PNDR Ocorr,    MUNI_OCOR,  1,  BR_PNDR.CNV
+CReg.Saúde Ocorr,    MUNI_OCOR,  1,  BR_REGSAUDC.CNV
+CMacr.Reg.Saúde Oco, MUNI_OCOR,  1,  BR_MACSAUDC.CNV
+CDiv.Adm. Ocorr,     MUNI_OCOR,  1,  BR_DIVADMC.CNV
+CMicr.IBGE Ocorr,    MUNI_OCOR,  1,  BR_MICIBGEC.CNV
+CReg.Metr Ocorr,     MUNI_OCOR,  1,  BR_REGMETRC.CNV
+CTerr.Cidad.Ocorr,   MUNI_OCOR,  1,  BR_TERRCIDC.CNV
+CMacr.PNDR Ocorr,    MUNI_OCOR,  1,  BR_PNDRC.CNV
+SReg.Saúde Ocorr,    MUNI_OCOR,  1,  BR_REGSAUD.CNV
+SMacr.Reg.Saúde Oco, MUNI_OCOR,  1,  BR_MACSAUD.CNV
+SDiv.Adm. Ocorr,     MUNI_OCOR,  1,  BR_DIVADM.CNV
+SMicr.IBGE Ocorr,    MUNI_OCOR,  1,  BR_MICIBGE.CNV
+SReg.Metr Ocorr,     MUNI_OCOR,  1,  BR_REGMETR.CNV
+STerr.Cidad.Ocorr,   MUNI_OCOR,  1,  BR_TERRCID.CNV
+SMacr.PNDR Ocorr,    MUNI_OCOR,  1,  BR_PNDR.CNV
+SMun Amaz.Legal Oco, MUNI_OCOR,  1,  BR_AMAZLEGAL.CNV
+SMun Extr.Pobr Oco,  MUNI_OCOR,  1,  BR_EXTRPOBREZ.CNV
+SMun Faix.Front Oco, MUNI_OCOR,  1,  BR_FRONTFAIXA.CNV
+SMun Zona Front Oco, MUNI_OCOR,  1,  BR_FRONTZONA.CNV
+SMun Semi Árido Oco, MUNI_OCOR,  1,  BR_SEMIARIDO.CNV
+LBairro Ocor,        MUNI_OCOR,  1,  BAIRROS.CNV
+SBairro Ocor,        MUNI_OCOR,  1,  BAIRROS.CNV
+;
+; Definições para Ano e Mês do Nascimento
+;
+XAno do Nascimento,  DATA_NASC,  3,  ANO.CNV
+XMês do Nascimento,  DATA_NASC,  5,  MESES.CNV
+;
+; Definições para Sexo
+;
+XSexo,               SEXO,       1,  SEXO.CNV
+;
+; Definições para Peso ao Nascer
+;
+IPeso ao Nascer,     PESO
+XPeso ao Nascer,     PESO,       1,  PESO.CNV
+;
+; Definições para Raça/Cor
+;
+XRaça/Cor,           RACCOR,     1,  RACACOR.CNV
+;
+; Definições para APGAR
+;
+XApgar 1º Minuto,    APGAR1,     1,  APGAR.CNV
+XApgar 5º Minuto,    APGAR5,     1,  APGAR.CNV
+;
+; Definições para Duração da Gestação
+;
+XDuração Gestação,   GESTACAO,   1,  GESTACAO.CNV 
+;
+; Definições para Tipo de Gravidez
+;
+XTipo de Gravidez,   TIPO_GRAV,  1,  GRAVIDEZ.CNV 
+;
+; Definições para Tipo de Parto
+;
+XTipo de Parto,      TIPO_PARTO, 1,  PARTO.CNV 
+;
+; Definições para Nº de consultas Pré-Natal
+;
+XConsult Pré-Natal,  PRE_NATAL,  1,  PRENATAL.CNV 
+;
+; Definições para idade da Mãe
+;
+XFx.Etária da Mãe,   IDADE_MAE,  1,  IDADEMAE.CNV
+;
+; Definições para grau de instrução da mãe
+;
+XGrau de Instrução,  INSTR_MAE,  1,  INSTRUC.CNV
+;
+; Definições para Município de residência da Mãe
+;
+LPaís Resid,         MUNI_MAE,   1,  PAISES.CNV
+SPaís Resid,         MUNI_MAE,   1,  PAISES.CNV
+LUF Residência,      MUNI_MAE,   1,  BR_UF.CNV
+LUF Resid Sigla,     MUNI_MAE,   1,  BR_UFSIGLA.CNV
+CUF Residência,      MUNI_MAE,   1,  BR_UFSIGLA.CNV
+SUF Residência,      MUNI_MAE,   1,  BR_UF.CNV
+LRegião Residência,  MUNI_MAE,   1,  BR_REGIAO.CNV
+CRegião Residência,  MUNI_MAE,   1,  BR_REGIAOC.CNV
+SRegião Residência,  MUNI_MAE,   1,  BR_REGIAO.CNV
+LRegião/UF Resid,    MUNI_MAE,   1,  BR_REGIAOUF.CNV
+XMunic Resid - BR,   MUNI_MAE,   1,  BR_MUNICIP.CNV
+XMunic Resid - AC,   MUNI_MAE,   1,  AC_MUNICIP.CNV
+XMunic Resid - AL,   MUNI_MAE,   1,  AL_MUNICIP.CNV
+XMunic Resid - AM,   MUNI_MAE,   1,  AM_MUNICIP.CNV
+XMunic Resid - AP,   MUNI_MAE,   1,  AP_MUNICIP.CNV
+XMunic Resid - BA,   MUNI_MAE,   1,  BA_MUNICIP.CNV
+XMunic Resid - CE,   MUNI_MAE,   1,  CE_MUNICIP.CNV
+XMunic Resid - DF,   MUNI_MAE,   1,  DF_MUNICIP.CNV
+XMunic Resid - ES,   MUNI_MAE,   1,  ES_MUNICIP.CNV
+XMunic Resid - GO,   MUNI_MAE,   1,  GO_MUNICIP.CNV
+XMunic Resid - MA,   MUNI_MAE,   1,  MA_MUNICIP.CNV
+XMunic Resid - MG,   MUNI_MAE,   1,  MG_MUNICIP.CNV
+XMunic Resid - MS,   MUNI_MAE,   1,  MS_MUNICIP.CNV
+XMunic Resid - MT,   MUNI_MAE,   1,  MT_MUNICIP.CNV
+XMunic Resid - PA,   MUNI_MAE,   1,  PA_MUNICIP.CNV
+XMunic Resid - PB,   MUNI_MAE,   1,  PB_MUNICIP.CNV
+XMunic Resid - PE,   MUNI_MAE,   1,  PE_MUNICIP.CNV
+XMunic Resid - PI,   MUNI_MAE,   1,  PI_MUNICIP.CNV
+XMunic Resid - PR,   MUNI_MAE,   1,  PR_MUNICIP.CNV
+XMunic Resid - RJ,   MUNI_MAE,   1,  RJ_MUNICIP.CNV
+XMunic Resid - RN,   MUNI_MAE,   1,  RN_MUNICIP.CNV
+XMunic Resid - RO,   MUNI_MAE,   1,  RO_MUNICIP.CNV
+XMunic Resid - RR,   MUNI_MAE,   1,  RR_MUNICIP.CNV
+XMunic Resid - RS,   MUNI_MAE,   1,  RS_MUNICIP.CNV
+XMunic Resid - SC,   MUNI_MAE,   1,  SC_MUNICIP.CNV
+XMunic Resid - SE,   MUNI_MAE,   1,  SE_MUNICIP.CNV
+XMunic Resid - SP,   MUNI_MAE,   1,  SP_MUNICIP.CNV
+XMunic Resid - TO,   MUNI_MAE,   1,  TO_MUNICIP.CNV
+LCapital Resid,      MUNI_MAE,   1,  BR_CAPITAL.CNV
+CCapital Resid,      MUNI_MAE,   1,  BR_CAPITALC.CNV
+SCapital Resid,      MUNI_MAE,   1,  BR_CAPITAL.CNV
+LReg.Saúde Resid,    MUNI_MAE,   1,  BR_REGSAUD.CNV
+LMacr.Reg.Saúde Res, MUNI_MAE,   1,  BR_MACSAUD.CNV
+LDiv.Adm. Resid,     MUNI_MAE,   1,  BR_DIVADM.CNV
+LMicr.IBGE Resid,    MUNI_MAE,   1,  BR_MICIBGE.CNV
+LReg.Metr Resid,     MUNI_MAE,   1,  BR_REGMETR.CNV
+LTerr.Cidad.Resid,   MUNI_MAE,   1,  BR_TERRCID.CNV
+LMacr.PNDR Resid,    MUNI_MAE,   1,  BR_PNDR.CNV
+CReg.Saúde Resid,    MUNI_MAE,   1,  BR_REGSAUDC.CNV
+CMacr.Reg.Saúde Res, MUNI_MAE,   1,  BR_MACSAUDC.CNV
+CDiv.Adm. Resid,     MUNI_MAE,   1,  BR_DIVADMC.CNV
+CMicr.IBGE Resid,    MUNI_MAE,   1,  BR_MICIBGEC.CNV
+CReg.Metr Resid,     MUNI_MAE,   1,  BR_REGMETRC.CNV
+CTerr.Cidad.Resid,   MUNI_MAE,   1,  BR_TERRCIDC.CNV
+CMacr.PNDR Resid,    MUNI_MAE,   1,  BR_PNDRC.CNV
+SReg.Saúde Resid,    MUNI_MAE,   1,  BR_REGSAUD.CNV
+SMacr.Reg.Saúde Res, MUNI_MAE,   1,  BR_MACSAUD.CNV
+SDiv.Adm. Resid,     MUNI_MAE,   1,  BR_DIVADM.CNV
+SMicr.IBGE Resid,    MUNI_MAE,   1,  BR_MICIBGE.CNV
+SReg.Metr Resid,     MUNI_MAE,   1,  BR_REGMETR.CNV
+STerr.Cidad.Resid,   MUNI_MAE,   1,  BR_TERRCID.CNV
+SMacr.PNDR Resid,    MUNI_MAE,   1,  BR_PNDR.CNV
+SMun Amaz.Legal Res, MUNI_MAE,   1,  BR_AMAZLEGAL.CNV
+SMun Extr.Pobr Res,  MUNI_MAE,   1,  BR_EXTRPOBREZ.CNV
+SMun Faix.Front Res, MUNI_MAE,   1,  BR_FRONTFAIXA.CNV
+SMun Zona Front Res, MUNI_MAE,   1,  BR_FRONTZONA.CNV
+SMun Semi Árido Res, MUNI_MAE,   1,  BR_SEMIARIDO.CNV
+LBairro Resid,       MUNI_MAE,   1,  BAIRROS.CNV
+SBairro Resid,       MUNI_MAE,   1,  BAIRROS.CNV
+;
+; Definições para Nº de filhos tidos
+;
+XFilhos Nasc.Vivos,  FIL_VIVOS,  1,  TIDOS.CNV
+XFilhos Nasc.Mortos, FIL_MORTOS, 1,  TIDOS.CNV
+XAbortos,            FIL_ABORT,  1,  TIDOS.CNV

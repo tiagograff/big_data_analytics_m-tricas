@@ -1,0 +1,299 @@
+    295  6                                                        
+      1  Abdon Batista                                      420005
+      2  Abelardo Luz                                       420010
+      3  Agrolândia                                         420020
+      4  Agronômica                                         420030
+      5  Água Doce                                          420040
+      6  Águas de Chapecó                                   420050
+      7  Águas Frias                                        420055
+      8  Águas Mornas                                       420060
+      9  Alfredo Wagner                                     420070
+     10  Alto Bela Vista                                    420075
+     11  Anchieta                                           420080
+     12  Angelina                                           420090
+     13  Anita Garibaldi                                    420100
+     14  Anitápolis                                         420110
+     15  Antônio Carlos                                     420120
+     16  Apiúna                                             420125
+     17  Arabutã                                            420127
+     18  Araquari                                           420130
+     19  Araranguá                                          420140
+     20  Armazém                                            420150
+     21  Arroio Trinta                                      420160
+     22  Arvoredo                                           420165
+     23  Ascurra                                            420170
+     24  Atalanta                                           420180
+     25  Aurora                                             420190
+     26  Balneário Arroio do Silva                          420195
+     27  Balneário Barra do Sul                             420205
+     28  Balneário Camboriú                                 420200
+     29  Balneário Gaivota                                  420207
+     30  Bandeirante                                        420208
+     31  Barra Bonita                                       420209
+     32  Barra Velha                                        420210
+     33  Bela Vista do Toldo                                420213
+     34  Belmonte                                           420215
+     35  Benedito Novo                                      420220
+     36  Biguaçu                                            420230
+     37  Blumenau                                           420240
+     38  Bocaina do Sul                                     420243
+     39  Bom Jardim da Serra                                420250
+     40  Bom Jesus                                          420253
+     41  Bom Jesus do Oeste                                 420257
+     42  Bom Retiro                                         420260
+     43  Bombinhas                                          420245
+     44  Botuverá                                           420270
+     45  Braço do Norte                                     420280
+     46  Braço do Trombudo                                  420285
+     47  Brunópolis                                         420287
+     48  Brusque                                            420290
+     49  Caçador                                            420300
+     50  Caibi                                              420310
+     51  Calmon                                             420315
+     52  Camboriú                                           420320
+     53  Campo Alegre                                       420330
+     54  Campo Belo do Sul                                  420340
+     55  Campo Erê                                          420350
+     56  Campos Novos                                       420360
+     57  Canelinha                                          420370
+     58  Canoinhas                                          420380
+     59  Capão Alto                                         420325
+     60  Capinzal                                           420390
+     61  Capivari de Baixo                                  420395
+     62  Catanduvas                                         420400
+     63  Caxambu do Sul                                     420410
+     64  Celso Ramos                                        420411
+     64  Celso Ramos                                        420415
+     65  Cerro Negro                                        420417
+     66  Chapadão do Lageado                                420419
+     67  Chapecó                                            420420
+     68  Cocal do Sul                                       420425
+     69  Concórdia                                          420430
+     70  Cordilheira Alta                                   420435
+     71  Coronel Freitas                                    420440
+     72  Coronel Martins                                    420445
+     73  Correia Pinto                                      420455
+     74  Corupá                                             420450
+     75  Criciúma                                           420460
+     76  Cunha Porã                                         420470
+     77  Cunhataí                                           420475
+     78  Curitibanos                                        420480
+     79  Descanso                                           420490
+     80  Dionísio Cerqueira                                 420500
+     81  Dona Emma                                          420510
+     82  Doutor Pedrinho                                    420515
+     83  Entre Rios                                         420517
+     84  Ermo                                               420519
+     85  Erval Velho                                        420520
+     86  Faxinal dos Guedes                                 420530
+     87  Flor do Sertão                                     420535
+     88  Florianópolis                                      420540
+     89  Formosa do Sul                                     420543
+     90  Forquilhinha                                       420545
+     91  Fraiburgo                                          420550
+     92  Frei Rogério                                       420555
+     93  Galvão                                             420560
+     94  Garopaba                                           420570
+     95  Garuva                                             420580
+     96  Gaspar                                             420590
+     97  Governador Celso Ramos                             420600
+     98  Grão Pará                                          420610
+     99  Gravatal                                           420620
+    100  Guabiruba                                          420630
+    101  Guaraciaba                                         420640
+    102  Guaramirim                                         420650
+    103  Guarujá do Sul                                     420660
+    104  Guatambu                                           420665
+    105  Herval d'Oeste                                     420670
+    106  Ibiam                                              420675
+    107  Ibicaré                                            420680
+    108  Ibirama                                            420690
+    109  Içara                                              420700
+    110  Ilhota                                             420710
+    111  Imaruí                                             420720
+    112  Imbituba                                           420730
+    113  Imbuia                                             420740
+    114  Indaial                                            420750
+    115  Iomerê                                             420757
+    116  Ipira                                              420760
+    117  Iporã do Oeste                                     420765
+    118  Ipuaçu                                             420768
+    119  Ipumirim                                           420770
+    120  Iraceminha                                         420775
+    121  Irani                                              420780
+    122  Irati                                              420785
+    123  Irineópolis                                        420790
+    124  Itá                                                420800
+    125  Itaiópolis                                         420810
+    126  Itajaí                                             420820
+    127  Itapema                                            420830
+    128  Itapiranga                                         420840
+    129  Itapoá                                             420845
+    130  Ituporanga                                         420850
+    131  Jaborá                                             420860
+    132  Jacinto Machado                                    420870
+    133  Jaguaruna                                          420880
+    134  Jaraguá do Sul                                     420890
+    135  Jardinópolis                                       420895
+    136  Joaçaba                                            420900
+    137  Joinville                                          420910
+    138  José Boiteux                                       420915
+    139  Jupiá                                              420917
+    140  Lacerdópolis                                       420920
+    141  Lages                                              420930
+    142  Laguna                                             420940
+    143  Lajeado Grande                                     420945
+    144  Laurentino                                         420950
+    145  Lauro Muller                                       420960
+    146  Lebon Régis                                        420970
+    147  Leoberto Leal                                      420980
+    148  Lindóia do Sul                                     420985
+    149  Lontras                                            420990
+    150  Luiz Alves                                         421000
+    151  Luzerna                                            421003
+    152  Macieira                                           421005
+    153  Mafra                                              421010
+    154  Major Gercino                                      421020
+    155  Major Vieira                                       421030
+    156  Maracajá                                           421040
+    157  Maravilha                                          421050
+    158  Marema                                             421055
+    159  Massaranduba                                       421060
+    160  Matos Costa                                        421070
+    161  Meleiro                                            421080
+    162  Mirim Doce                                         421085
+    163  Modelo                                             421090
+    164  Mondaí                                             421100
+    165  Monte Carlo                                        421105
+    166  Monte Castelo                                      421110
+    167  Morro da Fumaça                                    421120
+    168  Morro Grande                                       421125
+    169  Navegantes                                         421130
+    170  Nova Erechim                                       421140
+    171  Nova Itaberaba                                     421145
+    172  Nova Trento                                        421150
+    173  Nova Veneza                                        421160
+    174  Novo Horizonte                                     421165
+    175  Orleans                                            421170
+    176  Otacílio Costa                                     421175
+    177  Ouro                                               421180
+    178  Ouro Verde                                         421185
+    179  Paial                                              421187
+    180  Painel                                             421189
+    181  Palhoça                                            421190
+    182  Palma Sola                                         421200
+    183  Palmeira                                           421205
+    184  Palmitos                                           421210
+    185  Papanduva                                          421220
+    186  Paraíso                                            421223
+    187  Passo de Torres                                    421225
+    188  Passos Maia                                        421227
+    189  Paulo Lopes                                        421230
+    190  Pedras Grandes                                     421240
+    191  Penha                                              421250
+    192  Peritiba                                           421260
+    193  Petrolândia                                        421270
+    194  Piçarras                                           421280
+    195  Pinhalzinho                                        421290
+    196  Pinheiro Preto                                     421300
+    197  Piratuba                                           421310
+    198  Planalto Alegre                                    421315
+    199  Pomerode                                           421320
+    200  Ponte Alta                                         421330
+    201  Ponte Alta do Norte                                421335
+    202  Ponte Serrada                                      421340
+    203  Porto Belo                                         421350
+    204  Porto União                                        421360
+    205  Pouso Redondo                                      421370
+    206  Praia Grande                                       421380
+    207  Presidente Castelo Branco                          421390
+    208  Presidente Getúlio                                 421400
+    209  Presidente Nereu                                   421410
+    210  Princesa                                           421415
+    211  Quilombo                                           421420
+    212  Rancho Queimado                                    421430
+    213  Rio das Antas                                      421440
+    214  Rio do Campo                                       421450
+    215  Rio do Oeste                                       421460
+    216  Rio do Sul                                         421480
+    217  Rio dos Cedros                                     421470
+    218  Rio Fortuna                                        421490
+    219  Rio Negrinho                                       421500
+    220  Rio Rufino                                         421505
+    221  Riqueza                                            421507
+    222  Rodeio                                             421510
+    223  Romelândia                                         421520
+    224  Salete                                             421530
+    225  Saltinho                                           421535
+    226  Salto Veloso                                       421540
+    227  Sangão                                             421545
+    228  Santa Cecília                                      421550
+    229  Santa Helena                                       421555
+    230  Santa Rosa de Lima                                 421560
+    231  Santa Rosa do Sul                                  421565
+    232  Santa Terezinha                                    421567
+    233  Santa Terezinha do Progresso                       421568
+    234  Santiago do Sul                                    421569
+    235  Santo Amaro da Imperatriz                          421570
+    236  São Bento do Sul                                   421580
+    237  São Bernardino                                     421575
+    238  São Bonifácio                                      421590
+    239  São Carlos                                         421600
+    240  São Cristóvão do Sul                               421605
+    241  São Domingos                                       421610
+    242  São Francisco do Sul                               421620
+    243  São João Batista                                   421630
+    244  São João do Itaperiú                               421635
+    245  São João do Oeste                                  421625
+    246  São João do Sul                                    421640
+    247  São Joaquim                                        421650
+    248  São José                                           421660
+    249  São José do Cedro                                  421670
+    250  São José do Cerrito                                421680
+    251  São Lourenço do Oeste                              421690
+    252  São Ludgero                                        421700
+    253  São Martinho                                       421710
+    254  São Miguel d'Oeste                                 421720
+    255  São Miguel da Boa Vista                            421715
+    256  São Pedro de Alcântara                             421725
+    257  Saudades                                           421730
+    258  Schroeder                                          421740
+    259  Seara                                              421750
+    260  Serra Alta                                         421755
+    261  Siderópolis                                        421760
+    262  Sombrio                                            421770
+    263  Sul Brasil                                         421775
+    264  Taió                                               421780
+    265  Tangará                                            421790
+    266  Tigrinhos                                          421795
+    267  Tijucas                                            421800
+    268  Timbé do Sul                                       421810
+    269  Timbó                                              421820
+    270  Timbó Grande                                       421825
+    271  Três Barras                                        421830
+    272  Treviso                                            421835
+    273  Treze de Maio                                      421840
+    274  Treze Tílias                                       421850
+    275  Trombudo Central                                   421860
+    276  Tubarão                                            421870
+    277  Tunápolis                                          421875
+    278  Turvo                                              421880
+    279  União do Oeste                                     421885
+    280  Urubici                                            421890
+    281  Urupema                                            421895
+    282  Urussanga                                          421900
+    283  Vargeão                                            421910
+    284  Vargem                                             421915
+    285  Vargem Bonita                                      421917
+    286  Vidal Ramos                                        421920
+    287  Videira                                            421930
+    288  Vitor Meireles                                     421935
+    289  Witmarsum                                          421940
+    290  Xanxerê                                            421950
+    291  Xavantina                                          421960
+    292  Xaxim                                              421970
+    293  Zortéa                                             421985
+    294  Município ignorado - SC                            420000
+    294  Município ignorado - SC                            429999
+    295  União da Vitória (PR)                              412820
+

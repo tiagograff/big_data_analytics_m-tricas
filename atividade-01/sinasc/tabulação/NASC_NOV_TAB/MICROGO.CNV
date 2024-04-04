@@ -1,0 +1,309 @@
+     20  6                                                        
+      1  52001 S.Miguel Arag.                               520640
+      1  52001 S.Miguel Arag.                               521400
+      1  52001 S.Miguel Arag.                               521405
+      1  52001 S.Miguel Arag.                               521483
+      1  52001 S.Miguel Arag.                               521525
+      1  52001 S.Miguel Arag.                               522020
+      1  52001 S.Miguel Arag.                               522157
+      2  52002 Rio Vermelho                                 520215
+      2  52002 Rio Vermelho                                 520250
+      2  52002 Rio Vermelho                                 520380
+      2  52002 Rio Vermelho                                 520753
+      2  52002 Rio Vermelho                                 520890
+      2  52002 Rio Vermelho                                 521100
+      2  52002 Rio Vermelho                                 521220
+      2  52002 Rio Vermelho                                 521295
+      2  52002 Rio Vermelho                                 521925
+      3  52003 Aragarças                                    520170
+      3  52003 Aragarças                                    520235
+      3  52003 Aragarças                                    520310
+      3  52003 Aragarças                                    520340
+      3  52003 Aragarças                                    520710
+      3  52003 Aragarças                                    521370
+      3  52003 Aragarças                                    521720
+      4  52004 Porangatu                                    520055
+      4  52004 Porangatu                                    520082
+      4  52004 Porangatu                                    520357
+      4  52004 Porangatu                                    520465
+      4  52004 Porangatu                                    520470
+      4  52004 Porangatu                                    520495
+      4  52004 Porangatu                                    520750
+      4  52004 Porangatu                                    520810
+      4  52004 Porangatu                                    521280
+      4  52004 Porangatu                                    521308
+      4  52004 Porangatu                                    521377
+      4  52004 Porangatu                                    521410
+      4  52004 Porangatu                                    521460
+      4  52004 Porangatu                                    521487
+      4  52004 Porangatu                                    521800
+      4  52004 Porangatu                                    521960
+      4  52004 Porangatu                                    521970
+      4  52004 Porangatu                                    522145
+      4  52004 Porangatu                                    522160
+      5  52005 Chap.Veadeiros                               520060
+      5  52005 Chap.Veadeiros                               520490
+      5  52005 Chap.Veadeiros                               520530
+      5  52005 Chap.Veadeiros                               520552
+      5  52005 Chap.Veadeiros                               521350
+      5  52005 Chap.Veadeiros                               521490
+      5  52005 Chap.Veadeiros                               522000
+      5  52005 Chap.Veadeiros                               522108
+      6  52006 Ceres                                        520320
+      6  52006 Ceres                                        520500
+      6  52006 Ceres                                        520540
+      6  52006 Ceres                                        520860
+      6  52006 Ceres                                        520929
+      6  52006 Ceres                                        520945
+      6  52006 Ceres                                        520980
+      6  52006 Ceres                                        521090
+      6  52006 Ceres                                        521120
+      6  52006 Ceres                                        521385
+      6  52006 Ceres                                        521470
+      6  52006 Ceres                                        521486
+      6  52006 Ceres                                        521690
+      6  52006 Ceres                                        521860
+      6  52006 Ceres                                        521870
+      6  52006 Ceres                                        521890
+      6  52006 Ceres                                        521935
+      6  52006 Ceres                                        521945
+      6  52006 Ceres                                        522015
+      6  52006 Ceres                                        522028
+      6  52006 Ceres                                        522170
+      7  52007 Anápolis                                     520110
+      7  52007 Anápolis                                     520160
+      7  52007 Anápolis                                     520360
+      7  52007 Anápolis                                     520520
+      7  52007 Anápolis                                     520680
+      7  52007 Anápolis                                     520960
+      7  52007 Anápolis                                     521000
+      7  52007 Anápolis                                     521040
+      7  52007 Anápolis                                     521056
+      7  52007 Anápolis                                     521060
+      7  52007 Anápolis                                     521140
+      7  52007 Anápolis                                     521180
+      7  52007 Anápolis                                     521205
+      7  52007 Anápolis                                     521500
+      7  52007 Anápolis                                     521540
+      7  52007 Anápolis                                     521680
+      7  52007 Anápolis                                     521950
+      7  52007 Anápolis                                     521990
+      7  52007 Anápolis                                     522100
+      8  52008 Iporá                                        520090
+      8  52008 Iporá                                        520420
+      8  52008 Iporá                                        520570
+      8  52008 Iporá                                        520760
+      8  52008 Iporá                                        521020
+      8  52008 Iporá                                        521030
+      8  52008 Iporá                                        521160
+      8  52008 Iporá                                        521200
+      8  52008 Iporá                                        521340
+      8  52008 Iporá                                        521520
+      9  52009 Anicuns                                      520015
+      9  52009 Anicuns                                      520085
+      9  52009 Anicuns                                      520130
+      9  52009 Anicuns                                      520260
+      9  52009 Anicuns                                      520280
+      9  52009 Anicuns                                      520393
+      9  52009 Anicuns                                      520780
+      9  52009 Anicuns                                      521390
+      9  52009 Anicuns                                      521440
+      9  52009 Anicuns                                      521900
+      9  52009 Anicuns                                      521910
+      9  52009 Anicuns                                      522010
+      9  52009 Anicuns                                      522150
+     10  52010 Goiânia                                      520005
+     10  52010 Goiânia                                      520140
+     10  52010 Goiânia                                      520180
+     10  52010 Goiânia                                      520330
+     10  52010 Goiânia                                      520355
+     10  52010 Goiânia                                      520455
+     10  52010 Goiânia                                      520840
+     10  52010 Goiânia                                      520870
+     10  52010 Goiânia                                      520880
+     10  52010 Goiânia                                      520920
+     10  52010 Goiânia                                      520970
+     10  52010 Goiânia                                      521230
+     10  52010 Goiânia                                      521450
+     10  52010 Goiânia                                      521973
+     10  52010 Goiânia                                      522045
+     10  52010 Goiânia                                      522119
+     10  52010 Goiânia                                      522140
+     11  52011 Vão do Paraná                                520080
+     11  52011 Vão do Paraná                                520396
+     11  52011 Vão do Paraná                                520670
+     11  52011 Vão do Paraná                                520790
+     11  52011 Vão do Paraná                                520830
+     11  52011 Vão do Paraná                                520940
+     11  52011 Vão do Paraná                                520990
+     11  52011 Vão do Paraná                                521270
+     11  52011 Vão do Paraná                                521830
+     11  52011 Vão do Paraná                                521980
+     11  52011 Vão do Paraná                                522068
+     11  52011 Vão do Paraná                                522070
+     12  52012 Ent.Brasília                                 520010
+     12  52012 Ent.Brasília                                 520017
+     12  52012 Ent.Brasília                                 520025
+     12  52012 Ent.Brasília                                 520030
+     12  52012 Ent.Brasília                                 520400
+     12  52012 Ent.Brasília                                 520549
+     12  52012 Ent.Brasília                                 520551
+     12  52012 Ent.Brasília                                 520580
+     12  52012 Ent.Brasília                                 520620
+     12  52012 Ent.Brasília                                 520800
+     12  52012 Ent.Brasília                                 521250
+     12  52012 Ent.Brasília                                 521305
+     12  52012 Ent.Brasília                                 521523
+     12  52012 Ent.Brasília                                 521560
+     12  52012 Ent.Brasília                                 521730
+     12  52012 Ent.Brasília                                 521760
+     12  52012 Ent.Brasília                                 521975
+     12  52012 Ent.Brasília                                 522185
+     12  52012 Ent.Brasília                                 522220
+     12  52012 Ent.Brasília                                 522230
+     13  52013 SO de Goiás                                  520145
+     13  52013 SO de Goiás                                  520150
+     13  52013 SO de Goiás                                  520440
+     13  52013 SO de Goiás                                  520505
+     13  52013 SO de Goiás                                  520547
+     13  52013 SO de Goiás                                  520725
+     13  52013 SO de Goiás                                  521190
+     13  52013 SO de Goiás                                  521300
+     13  52013 SO de Goiás                                  521310
+     13  52013 SO de Goiás                                  521375
+     13  52013 SO de Goiás                                  521565
+     13  52013 SO de Goiás                                  521645
+     13  52013 SO de Goiás                                  521810
+     13  52013 SO de Goiás                                  521880
+     13  52013 SO de Goiás                                  521930
+     13  52013 SO de Goiás                                  521940
+     13  52013 SO de Goiás                                  521971
+     13  52013 SO de Goiás                                  522050
+     14  52014 Vale Rio Bois                                520013
+     14  52014 Vale Rio Bois                                520460
+     14  52014 Vale Rio Bois                                520545
+     14  52014 Vale Rio Bois                                520735
+     14  52014 Vale Rio Bois                                520740
+     14  52014 Vale Rio Bois                                520995
+     14  52014 Vale Rio Bois                                521170
+     14  52014 Vale Rio Bois                                521570
+     14  52014 Vale Rio Bois                                521590
+     14  52014 Vale Rio Bois                                521640
+     14  52014 Vale Rio Bois                                522005
+     14  52014 Vale Rio Bois                                522155
+     14  52014 Vale Rio Bois                                522190
+     15  52015 Meia Ponte                                   520020
+     15  52015 Meia Ponte                                   520050
+     15  52015 Meia Ponte                                   520350
+     15  52015 Meia Ponte                                   520390
+     15  52015 Meia Ponte                                   520425
+     15  52015 Meia Ponte                                   520450
+     15  52015 Meia Ponte                                   520650
+     15  52015 Meia Ponte                                   520910
+     15  52015 Meia Ponte                                   520993
+     15  52015 Meia Ponte                                   521150
+     15  52015 Meia Ponte                                   521210
+     15  52015 Meia Ponte                                   521260
+     15  52015 Meia Ponte                                   521290
+     15  52015 Meia Ponte                                   521380
+     15  52015 Meia Ponte                                   521600
+     15  52015 Meia Ponte                                   521710
+     15  52015 Meia Ponte                                   521770
+     15  52015 Meia Ponte                                   521805
+     15  52015 Meia Ponte                                   521839
+     15  52015 Meia Ponte                                   521878
+     15  52015 Meia Ponte                                   522205
+     16  52016 Pires do Rio                                 520630
+     16  52016 Pires do Rio                                 521530
+     16  52016 Pires do Rio                                 521580
+     16  52016 Pires do Rio                                 521740
+     16  52016 Pires do Rio                                 521920
+     16  52016 Pires do Rio                                 522026
+     16  52016 Pires do Rio                                 522060
+     16  52016 Pires do Rio                                 522180
+     16  52016 Pires do Rio                                 522200
+     17  52017 Catalão                                      520120
+     17  52017 Catalão                                      520480
+     17  52017 Catalão                                      520510
+     17  52017 Catalão                                      520590
+     17  52017 Catalão                                      520660
+     17  52017 Catalão                                      520690
+     17  52017 Catalão                                      520850
+     17  52017 Catalão                                      521010
+     17  52017 Catalão                                      521480
+     17  52017 Catalão                                      521550
+     17  52017 Catalão                                      522130
+     18  52018 Quirinópolis                                 520410
+     18  52018 Quirinópolis                                 520430
+     18  52018 Quirinópolis                                 520915
+     18  52018 Quirinópolis                                 521080
+     18  52018 Quirinópolis                                 521130
+     18  52018 Quirinópolis                                 521630
+     18  52018 Quirinópolis                                 521850
+     18  52018 Quirinópolis                                 522040
+     19  52998 Transf p/Tocantins                           520040
+     19  52998 Transf p/Tocantins                           520070
+     19  52998 Transf p/Tocantins                           520100
+     19  52998 Transf p/Tocantins                           520190
+     19  52998 Transf p/Tocantins                           520200
+     19  52998 Transf p/Tocantins                           520210
+     19  52998 Transf p/Tocantins                           520220
+     19  52998 Transf p/Tocantins                           520230
+     19  52998 Transf p/Tocantins                           520240
+     19  52998 Transf p/Tocantins                           520255
+     19  52998 Transf p/Tocantins                           520270
+     19  52998 Transf p/Tocantins                           520290
+     19  52998 Transf p/Tocantins                           520300
+     19  52998 Transf p/Tocantins                           520370
+     19  52998 Transf p/Tocantins                           520550
+     19  52998 Transf p/Tocantins                           520560
+     19  52998 Transf p/Tocantins                           520600
+     19  52998 Transf p/Tocantins                           520610
+     19  52998 Transf p/Tocantins                           520700
+     19  52998 Transf p/Tocantins                           520720
+     19  52998 Transf p/Tocantins                           520730
+     19  52998 Transf p/Tocantins                           520755
+     19  52998 Transf p/Tocantins                           520765
+     19  52998 Transf p/Tocantins                           520770
+     19  52998 Transf p/Tocantins                           520820
+     19  52998 Transf p/Tocantins                           520900
+     19  52998 Transf p/Tocantins                           520930
+     19  52998 Transf p/Tocantins                           520950
+     19  52998 Transf p/Tocantins                           521050
+     19  52998 Transf p/Tocantins                           521070
+     19  52998 Transf p/Tocantins                           521110
+     19  52998 Transf p/Tocantins                           521240
+     19  52998 Transf p/Tocantins                           521320
+     19  52998 Transf p/Tocantins                           521330
+     19  52998 Transf p/Tocantins                           521360
+     19  52998 Transf p/Tocantins                           521420
+     19  52998 Transf p/Tocantins                           521430
+     19  52998 Transf p/Tocantins                           521488
+     19  52998 Transf p/Tocantins                           521510
+     19  52998 Transf p/Tocantins                           521575
+     19  52998 Transf p/Tocantins                           521610
+     19  52998 Transf p/Tocantins                           521620
+     19  52998 Transf p/Tocantins                           521650
+     19  52998 Transf p/Tocantins                           521660
+     19  52998 Transf p/Tocantins                           521670
+     19  52998 Transf p/Tocantins                           521700
+     19  52998 Transf p/Tocantins                           521750
+     19  52998 Transf p/Tocantins                           521780
+     19  52998 Transf p/Tocantins                           521790
+     19  52998 Transf p/Tocantins                           521820
+     19  52998 Transf p/Tocantins                           521840
+     19  52998 Transf p/Tocantins                           521875
+     19  52998 Transf p/Tocantins                           522030
+     19  52998 Transf p/Tocantins                           522065
+     19  52998 Transf p/Tocantins                           522080
+     19  52998 Transf p/Tocantins                           522090
+     19  52998 Transf p/Tocantins                           522110
+     19  52998 Transf p/Tocantins                           522120
+     19  52998 Transf p/Tocantins                           522208
+     19  52998 Transf p/Tocantins                           522210
+     20  52000 Ignorado - GO                                520000
+     20  52000 Ignorado - GO                                520485
+     20  52000 Ignorado - GO                                520815
+     20  52000 Ignorado - GO                                521015
+     20  52000 Ignorado - GO                                521225
+

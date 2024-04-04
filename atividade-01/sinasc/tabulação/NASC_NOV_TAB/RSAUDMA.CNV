@@ -1,0 +1,220 @@
+     16  6                                                        
+      1  2101 São Luiz                                      210020
+      1  2101 São Luiz                                      210070
+      1  2101 São Luiz                                      210110
+      1  2101 São Luiz                                      210125
+      1  2101 São Luiz                                      210237
+      1  2101 São Luiz                                      210270
+      1  2101 São Luiz                                      210500
+      1  2101 São Luiz                                      210510
+      1  2101 São Luiz                                      210540
+      1  2101 São Luiz                                      210663
+      1  2101 São Luiz                                      210675
+      1  2101 São Luiz                                      210710
+      1  2101 São Luiz                                      210750
+      1  2101 São Luiz                                      210880
+      1  2101 São Luiz                                      210920
+      1  2101 São Luiz                                      210940
+      1  2101 São Luiz                                      210945
+      1  2101 São Luiz                                      210960
+      1  2101 São Luiz                                      211020
+      1  2101 São Luiz                                      211027
+      1  2101 São Luiz                                      211120
+      1  2101 São Luiz                                      211130
+      2  2102 Bacabal                                       210120
+      2  2102 Bacabal                                       210207
+      2  2102 Bacabal                                       210215
+      2  2102 Bacabal                                       210590
+      2  2102 Bacabal                                       210870
+      2  2102 Bacabal                                       211140
+      2  2102 Bacabal                                       211150
+      2  2102 Bacabal                                       211172
+      3  2103 Pedreiras                                     210193
+      3  2103 Pedreiras                                     210400
+      3  2103 Pedreiras                                     210520
+      3  2103 Pedreiras                                     210560
+      3  2103 Pedreiras                                     210594
+      3  2103 Pedreiras                                     210600
+      3  2103 Pedreiras                                     210820
+      3  2103 Pedreiras                                     211163
+      3  2103 Pedreiras                                     211167
+      3  2103 Pedreiras                                     211223
+      4  2104 Santa Inês                                    210047
+      4  2104 Santa Inês                                    210055
+      4  2104 Santa Inês                                    210087
+      4  2104 Santa Inês                                    210100
+      4  2104 Santa Inês                                    210177
+      4  2104 Santa Inês                                    210197
+      4  2104 Santa Inês                                    210200
+      4  2104 Santa Inês                                    210203
+      4  2104 Santa Inês                                    210232
+      4  2104 Santa Inês                                    210260
+      4  2104 Santa Inês                                    210290
+      4  2104 Santa Inês                                    210315
+      4  2104 Santa Inês                                    210317
+      4  2104 Santa Inês                                    210355
+      4  2104 Santa Inês                                    210430
+      4  2104 Santa Inês                                    210465
+      4  2104 Santa Inês                                    210467
+      4  2104 Santa Inês                                    210515
+      4  2104 Santa Inês                                    210565
+      4  2104 Santa Inês                                    210620
+      4  2104 Santa Inês                                    210632
+      4  2104 Santa Inês                                    210637
+      4  2104 Santa Inês                                    210690
+      4  2104 Santa Inês                                    210735
+      4  2104 Santa Inês                                    210850
+      4  2104 Santa Inês                                    210923
+      4  2104 Santa Inês                                    210990
+      4  2104 Santa Inês                                    211000
+      4  2104 Santa Inês                                    211003
+      4  2104 Santa Inês                                    211102
+      4  2104 Santa Inês                                    211227
+      4  2104 Santa Inês                                    211290
+      4  2104 Santa Inês                                    211400
+      5  2105 Chapadinha                                    210015
+      5  2105 Chapadinha                                    210080
+      5  2105 Chapadinha                                    210090
+      5  2105 Chapadinha                                    210170
+      5  2105 Chapadinha                                    210173
+      5  2105 Chapadinha                                    210210
+      5  2105 Chapadinha                                    210220
+      5  2105 Chapadinha                                    210320
+      5  2105 Chapadinha                                    210630
+      5  2105 Chapadinha                                    210640
+      5  2105 Chapadinha                                    210667
+      5  2105 Chapadinha                                    210720
+      5  2105 Chapadinha                                    210805
+      5  2105 Chapadinha                                    210930
+      5  2105 Chapadinha                                    211010
+      5  2105 Chapadinha                                    211023
+      5  2105 Chapadinha                                    211040
+      5  2105 Chapadinha                                    211060
+      5  2105 Chapadinha                                    211250
+      5  2105 Chapadinha                                    211260
+      5  2105 Chapadinha                                    211270
+      6  2106 Presidente Dutra                              210160
+      6  2106 Presidente Dutra                              210380
+      6  2106 Presidente Dutra                              210408
+      6  2106 Presidente Dutra                              210440
+      6  2106 Presidente Dutra                              210450
+      6  2106 Presidente Dutra                              210460
+      6  2106 Presidente Dutra                              210470
+      6  2106 Presidente Dutra                              210547
+      6  2106 Presidente Dutra                              210910
+      6  2106 Presidente Dutra                              210975
+      6  2106 Presidente Dutra                              211030
+      6  2106 Presidente Dutra                              211125
+      6  2106 Presidente Dutra                              211174
+      6  2106 Presidente Dutra                              211230
+      7  2107 Caxias                                        210010
+      7  2107 Caxias                                        210030
+      7  2107 Caxias                                        210300
+      7  2107 Caxias                                        210340
+      7  2107 Caxias                                        210390
+      7  2107 Caxias                                        210660
+      7  2107 Caxias                                        210780
+      7  2107 Caxias                                        211107
+      7  2107 Caxias                                        211220
+      8  2108 S.João dos Patos                              210150
+      8  2108 S.João dos Patos                              210730
+      8  2108 S.João dos Patos                              210770
+      8  2108 S.João dos Patos                              210800
+      8  2108 S.João dos Patos                              211090
+      8  2108 S.João dos Patos                              211110
+      8  2108 S.João dos Patos                              211195
+      9  2109 Imperatriz                                    210005
+      9  2109 Imperatriz                                    210060
+      9  2109 Imperatriz                                    210095
+      9  2109 Imperatriz                                    210235
+      9  2109 Imperatriz                                    210255
+      9  2109 Imperatriz                                    210280
+      9  2109 Imperatriz                                    210325
+      9  2109 Imperatriz                                    210375
+      9  2109 Imperatriz                                    210405
+      9  2109 Imperatriz                                    210409
+      9  2109 Imperatriz                                    210455
+      9  2109 Imperatriz                                    210480
+      9  2109 Imperatriz                                    210530
+      9  2109 Imperatriz                                    210535
+      9  2109 Imperatriz                                    210542
+      9  2109 Imperatriz                                    210550
+      9  2109 Imperatriz                                    210598
+      9  2109 Imperatriz                                    210700
+      9  2109 Imperatriz                                    210900
+      9  2109 Imperatriz                                    210955
+      9  2109 Imperatriz                                    211085
+      9  2109 Imperatriz                                    211105
+      9  2109 Imperatriz                                    211153
+      9  2109 Imperatriz                                    211157
+      9  2109 Imperatriz                                    211176
+      9  2109 Imperatriz                                    211180
+      9  2109 Imperatriz                                    211285
+     10  2110 Balsas                                        210050
+     10  2110 Balsas                                        210140
+     10  2110 Balsas                                        210180
+     10  2110 Balsas                                        210407
+     10  2110 Balsas                                        210410
+     10  2110 Balsas                                        210610
+     10  2110 Balsas                                        210725
+     10  2110 Balsas                                        210950
+     10  2110 Balsas                                        210970
+     10  2110 Balsas                                        211065
+     10  2110 Balsas                                        211080
+     10  2110 Balsas                                        211160
+     10  2110 Balsas                                        211200
+     11  2111 Pinheiro                                      210083
+     11  2111 Pinheiro                                      210130
+     11  2111 Pinheiro                                      210135
+     11  2111 Pinheiro                                      210190
+     11  2111 Pinheiro                                      210310
+     11  2111 Pinheiro                                      210312
+     11  2111 Pinheiro                                      210370
+     11  2111 Pinheiro                                      210490
+     11  2111 Pinheiro                                      210680
+     11  2111 Pinheiro                                      210760
+     11  2111 Pinheiro                                      210840
+     11  2111 Pinheiro                                      210860
+     11  2111 Pinheiro                                      210905
+     11  2111 Pinheiro                                      210927
+     11  2111 Pinheiro                                      210980
+     11  2111 Pinheiro                                      211050
+     11  2111 Pinheiro                                      211178
+     11  2111 Pinheiro                                      211240
+     11  2111 Pinheiro                                      211245
+     12  2112 Viana                                         210240
+     12  2112 Viana                                         210250
+     12  2112 Viana                                         210650
+     12  2112 Viana                                         210745
+     12  2112 Viana                                         210825
+     12  2112 Viana                                         210830
+     12  2112 Viana                                         211100
+     12  2112 Viana                                         211170
+     12  2112 Viana                                         211280
+     13  2113 Colinas                                       210230
+     13  2113 Colinas                                       210350
+     13  2113 Colinas                                       210420
+     13  2113 Colinas                                       210462
+     13  2113 Colinas                                       210545
+     13  2113 Colinas                                       210592
+     13  2113 Colinas                                       210670
+     13  2113 Colinas                                       210790
+     13  2113 Colinas                                       211070
+     13  2113 Colinas                                       211190
+     14  2114 Codó                                          210043
+     14  2114 Codó                                          210275
+     14  2114 Codó                                          210330
+     14  2114 Codó                                          210360
+     14  2114 Codó                                          210845
+     14  2114 Codó                                          211210
+     15  2115 Vitorino Freire                               210040
+     15  2115 Vitorino Freire                               210570
+     15  2115 Vitorino Freire                               210580
+     15  2115 Vitorino Freire                               210596
+     15  2115 Vitorino Freire                               210635
+     15  2115 Vitorino Freire                               210740
+     15  2115 Vitorino Freire                               210810
+     15  2115 Vitorino Freire                               210890
+     15  2115 Vitorino Freire                               211300
+     16  2100 Município ignorado - MA                       210000
+

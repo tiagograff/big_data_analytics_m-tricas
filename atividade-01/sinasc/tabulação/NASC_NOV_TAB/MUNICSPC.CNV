@@ -1,0 +1,707 @@
+    646  6                                                        
+      1  Adamantina                                         350010
+      2  Adolfo                                             350020
+      3  Aguaí                                              350030
+      4  Águas da Prata                                     350040
+      5  Águas de Lindóia                                   350050
+      6  Águas de Santa Bárbara                             350055
+      7  Águas de São Pedro                                 350060
+      8  Agudos                                             350070
+      9  Alambari                                           350075
+     10  Alfredo Marcondes                                  350080
+     11  Altair                                             350090
+     12  Altinópolis                                        350100
+     13  Alto Alegre                                        350110
+     14  Alumínio                                           350115
+     15  Álvares Florence                                   350120
+     16  Álvares Machado                                    350130
+     17  Álvaro de Carvalho                                 350140
+     18  Alvinlândia                                        350150
+     19  Americana                                          350160
+     20  Américo Brasiliense                                350170
+     21  Américo de Campos                                  350180
+     22  Amparo                                             350190
+     23  Analândia                                          350200
+     24  Andradina                                          350210
+     25  Angatuba                                           350220
+     26  Anhembi                                            350230
+     27  Anhumas                                            350240
+     28  Aparecida                                          350250
+     29  Aparecida d'Oeste                                  350260
+     30  Apiaí                                              350270
+     31  Araçariguama                                       350275
+     32  Araçatuba                                          350280
+     33  Araçoiaba da Serra                                 350290
+     34  Aramina                                            350300
+     35  Arandu                                             350310
+     36  Arapeí                                             350315
+     37  Araraquara                                         350320
+     38  Araras                                             350330
+     39  Arco-Íris                                          350335
+     40  Arealva                                            350340
+     41  Areias                                             350350
+     42  Areiópolis                                         350360
+     43  Ariranha                                           350370
+     44  Artur Nogueira                                     350380
+     45  Arujá                                              350390
+     46  Aspásia                                            350395
+     47  Assis                                              350400
+     48  Atibaia                                            350410
+     49  Auriflama                                          350420
+     50  Avaí                                               350430
+     51  Avanhandava                                        350440
+     52  Avaré                                              350450
+     53  Bady Bassitt                                       350460
+     54  Balbinos                                           350470
+     55  Bálsamo                                            350480
+     56  Bananal                                            350490
+     57  Barão de Antonina                                  350500
+     58  Barbosa                                            350510
+     59  Bariri                                             350520
+     60  Barra Bonita                                       350530
+     61  Barra do Chapéu                                    350535
+     62  Barra do Turvo                                     350540
+     63  Barretos                                           350550
+     64  Barrinha                                           350560
+     65  Barueri                                            350570
+     66  Bastos                                             350580
+     67  Batatais                                           350590
+     68  Bauru                                              350600
+     69  Bebedouro                                          350610
+     70  Bento de Abreu                                     350620
+     71  Bernardino de Campos                               350630
+     72  Bertioga                                           350635
+     73  Bilac                                              350640
+     74  Birigui                                            350650
+     75  Biritiba-Mirim                                     350660
+     76  Boa Esperança do Sul                               350670
+     77  Bocaina                                            350680
+     78  Bofete                                             350690
+     79  Boituva                                            350700
+     80  Bom Jesus dos Perdões                              350710
+     81  Bom Sucesso de Itararé                             350715
+     82  Borá                                               350720
+     83  Boracéia                                           350730
+     84  Borborema                                          350740
+     85  Borebi                                             350745
+     86  Botucatu                                           350750
+     87  Bragança Paulista                                  350760
+     88  Braúna                                             350770
+     89  Brejo Alegre                                       350775
+     90  Brodósqui                                          350780
+     91  Brotas                                             350790
+     92  Buri                                               350800
+     93  Buritama                                           350810
+     94  Buritizal                                          350820
+     95  Cabrália Paulista                                  350830
+     96  Cabreúva                                           350840
+     97  Caçapava                                           350850
+     98  Cachoeira Paulista                                 350860
+     99  Caconde                                            350870
+    100  Cafelândia                                         350880
+    101  Caiabu                                             350890
+    102  Caieiras                                           350900
+    103  Caiuá                                              350910
+    104  Cajamar                                            350920
+    105  Cajati                                             350925
+    106  Cajobi                                             350930
+    107  Cajuru                                             350940
+    108  Campina do Monte Alegre                            350945
+    109  Campinas                                           350950
+    110  Campo Limpo Paulista                               350960
+    111  Campos do Jordão                                   350970
+    112  Campos Novos Paulista                              350980
+    113  Cananéia                                           350990
+    114  Canas                                              350995
+    115  Cândido Mota                                       351000
+    116  Cândido Rodrigues                                  351010
+    117  Canitar                                            351015
+    118  Capão Bonito                                       351020
+    119  Capela do Alto                                     351030
+    120  Capivari                                           351040
+    121  Caraguatatuba                                      351050
+    122  Carapicuíba                                        351060
+    123  Cardoso                                            351070
+    124  Casa Branca                                        351080
+    125  Cássia dos Coqueiros                               351090
+    126  Castilho                                           351100
+    127  Catanduva                                          351110
+    128  Catiguá                                            351120
+    129  Cedral                                             351130
+    130  Cerqueira César                                    351140
+    131  Cerquilho                                          351150
+    132  Cesário Lange                                      351160
+    133  Charqueada                                         351170
+    134  Chavantes                                          355720
+    135  Clementina                                         351190
+    136  Colina                                             351200
+    137  Colômbia                                           351210
+    138  Conchal                                            351220
+    139  Conchas                                            351230
+    140  Cordeirópolis                                      351240
+    141  Coroados                                           351250
+    142  Coronel Macedo                                     351260
+    143  Corumbataí                                         351270
+    144  Cosmópolis                                         351280
+    145  Cosmorama                                          351290
+    146  Cotia                                              351300
+    147  Cravinhos                                          351310
+    148  Cristais Paulista                                  351320
+    149  Cruzália                                           351330
+    150  Cruzeiro                                           351340
+    151  Cubatão                                            351350
+    152  Cunha                                              351360
+    153  Descalvado                                         351370
+    154  Diadema                                            351380
+    155  Dirce Reis                                         351385
+    156  Divinolândia                                       351390
+    157  Dobrada                                            351400
+    158  Dois Córregos                                      351410
+    159  Dolcinópolis                                       351420
+    160  Dourado                                            351430
+    161  Dracena                                            351440
+    162  Duartina                                           351450
+    163  Dumont                                             351460
+    164  Echaporã                                           351470
+    165  Eldorado                                           351480
+    166  Elias Fausto                                       351490
+    167  Elisiário                                          351492
+    168  Embaúba                                            351495
+    169  Embu                                               351500
+    170  Embu-Guaçu                                         351510
+    171  Emilianópolis                                      351512
+    172  Engenheiro Coelho                                  351515
+    173  Espírito Santo do Pinhal                           351518
+    174  Espírito Santo do Turvo                            351519
+    175  Estiva Gerbi                                       355730
+    176  Estrela d'Oeste                                    351520
+    177  Estrela do Norte                                   351530
+    178  Euclides da Cunha Paulista                         351535
+    179  Fartura                                            351540
+    180  Fernando Prestes                                   351560
+    181  Fernandópolis                                      351550
+    182  Fernão                                             351565
+    183  Ferraz de Vasconcelos                              351570
+    184  Flora Rica                                         351580
+    185  Floreal                                            351590
+    186  Flórida Paulista                                   351600
+    187  Florínia                                           351610
+    188  Franca                                             351620
+    189  Francisco Morato                                   351630
+    190  Franco da Rocha                                    351640
+    191  Gabriel Monteiro                                   351650
+    192  Gália                                              351660
+    193  Garça                                              351670
+    194  Gastão Vidigal                                     351680
+    195  Gavião Peixoto                                     351685
+    196  General Salgado                                    351690
+    197  Getulina                                           351700
+    198  Glicério                                           351710
+    199  Guaiçara                                           351720
+    200  Guaimbê                                            351730
+    201  Guaíra                                             351740
+    202  Guapiaçu                                           351750
+    203  Guapiara                                           351760
+    204  Guará                                              351770
+    205  Guaraçaí                                           351780
+    206  Guaraci                                            351790
+    207  Guarani d'Oeste                                    351800
+    208  Guarantã                                           351810
+    209  Guararapes                                         351820
+    210  Guararema                                          351830
+    211  Guaratinguetá                                      351840
+    212  Guareí                                             351850
+    213  Guariba                                            351860
+    214  Guarujá                                            351870
+    215  Guarulhos                                          351880
+    216  Guatapará                                          351885
+    217  Guzolândia                                         351890
+    218  Herculândia                                        351900
+    219  Holambra                                           351905
+    220  Hortolândia                                        351907
+    221  Iacanga                                            351910
+    222  Iacri                                              351920
+    223  Iaras                                              351925
+    224  Ibaté                                              351930
+    225  Ibirá                                              351940
+    226  Ibirarema                                          351950
+    227  Ibitinga                                           351960
+    228  Ibiúna                                             351970
+    229  Icém                                               351980
+    230  Iepê                                               351990
+    231  Igaraçu do Tietê                                   352000
+    232  Igarapava                                          352010
+    233  Igaratá                                            352020
+    234  Iguape                                             352030
+    235  Ilha Comprida                                      352042
+    236  Ilha Solteira                                      352044
+    237  Ilhabela                                           352040
+    238  Indaiatuba                                         352050
+    239  Indiana                                            352060
+    240  Indiaporã                                          352070
+    241  Inúbia Paulista                                    352080
+    242  Ipauçu                                             352090
+    243  Iperó                                              352100
+    244  Ipeúna                                             352110
+    245  Ipiguá                                             352115
+    246  Iporanga                                           352120
+    247  Ipuã                                               352130
+    248  Iracemápolis                                       352140
+    249  Irapuã                                             352150
+    250  Irapuru                                            352160
+    251  Itaberá                                            352170
+    252  Itaí                                               352180
+    253  Itajobi                                            352190
+    254  Itaju                                              352200
+    255  Itanhaém                                           352210
+    256  Itaóca                                             352215
+    257  Itapecerica da Serra                               352220
+    258  Itapetininga                                       352230
+    259  Itapeva                                            352240
+    260  Itapevi                                            352250
+    261  Itapira                                            352260
+    262  Itapirapuã Paulista                                352265
+    263  Itápolis                                           352270
+    264  Itaporanga                                         352280
+    265  Itapuí                                             352290
+    266  Itapura                                            352300
+    267  Itaquaquecetuba                                    352310
+    268  Itararé                                            352320
+    269  Itariri                                            352330
+    270  Itatiba                                            352340
+    271  Itatinga                                           352350
+    272  Itirapina                                          352360
+    273  Itirapuã                                           352370
+    274  Itobi                                              352380
+    275  Itu                                                352390
+    276  Itupeva                                            352400
+    277  Ituverava                                          352410
+    278  Jaborandi                                          352420
+    279  Jaboticabal                                        352430
+    280  Jacareí                                            352440
+    281  Jaci                                               352450
+    282  Jacupiranga                                        352460
+    283  Jaguariúna                                         352470
+    284  Jales                                              352480
+    285  Jambeiro                                           352490
+    286  Jandira                                            352500
+    287  Jardinópolis                                       352510
+    288  Jarinu                                             352520
+    289  Jaú                                                352530
+    290  Jeriquara                                          352540
+    291  Joanópolis                                         352550
+    292  João Ramalho                                       352560
+    293  José Bonifácio                                     352570
+    294  Júlio Mesquita                                     352580
+    295  Jumirim                                            352585
+    296  Jundiaí                                            352590
+    297  Junqueirópolis                                     352600
+    298  Juquiá                                             352610
+    299  Juquitiba                                          352620
+    300  Lagoinha                                           352630
+    301  Laranjal Paulista                                  352640
+    302  Lavínia                                            352650
+    303  Lavrinhas                                          352660
+    304  Leme                                               352670
+    305  Lençóis Paulista                                   352680
+    306  Limeira                                            352690
+    307  Lindóia                                            352700
+    308  Lins                                               352710
+    309  Lorena                                             352720
+    310  Lourdes                                            352725
+    311  Louveira                                           352730
+    312  Lucélia                                            352740
+    313  Lucianópolis                                       352750
+    314  Luís Antônio                                       352760
+    315  Luiziânia                                          352770
+    316  Lupércio                                           352780
+    317  Lutécia                                            352790
+    318  Macatuba                                           352800
+    319  Macaubal                                           352810
+    320  Macedônia                                          352820
+    321  Magda                                              352830
+    322  Mairinque                                          352840
+    323  Mairiporã                                          352850
+    324  Manduri                                            352860
+    325  Marabá Paulista                                    352870
+    326  Maracaí                                            352880
+    327  Marapoama                                          352885
+    328  Mariápolis                                         352890
+    329  Marília                                            352900
+    330  Marinópolis                                        352910
+    331  Martinópolis                                       352920
+    332  Matão                                              352930
+    333  Mauá                                               352940
+    334  Mendonça                                           352950
+    335  Meridiano                                          352960
+    336  Mesópolis                                          352965
+    337  Miguelópolis                                       352970
+    338  Mineiros do Tietê                                  352980
+    339  Mira Estrela                                       353000
+    340  Miracatu                                           352990
+    341  Mirandópolis                                       353010
+    342  Mirante do Paranapanema                            353020
+    343  Mirassol                                           353030
+    344  Mirassolândia                                      353040
+    345  Mococa                                             353050
+    346  Moji das Cruzes                                    353060
+    347  Moji-Guaçu                                         353070
+    348  Moji-Mirim                                         353080
+    349  Mombuca                                            353090
+    350  Monções                                            353100
+    351  Mongaguá                                           353110
+    352  Monte Alegre do Sul                                353120
+    353  Monte Alto                                         353130
+    354  Monte Aprazível                                    353140
+    355  Monte Azul Paulista                                353150
+    356  Monte Castelo                                      353160
+    357  Monte Mor                                          353180
+    358  Monteiro Lobato                                    353170
+    359  Morro Agudo                                        353190
+    360  Morungaba                                          353200
+    361  Motuca                                             353205
+    362  Murutinga do Sul                                   353210
+    363  Nantes                                             353215
+    364  Narandiba                                          353220
+    365  Natividade da Serra                                353230
+    366  Nazaré Paulista                                    353240
+    367  Neves Paulista                                     353250
+    368  Nhandeara                                          353260
+    369  Nipoã                                              353270
+    370  Nova Aliança                                       353280
+    371  Nova Campina                                       353282
+    372  Nova Canaã Paulista                                353284
+    373  Nova Castilho                                      353286
+    374  Nova Europa                                        353290
+    375  Nova Granada                                       353300
+    376  Nova Guataporanga                                  353310
+    377  Nova Independência                                 353320
+    378  Nova Luzitânia                                     353330
+    379  Nova Odessa                                        353340
+    380  Novais                                             353325
+    381  Novo Horizonte                                     353350
+    382  Nuporanga                                          353360
+    383  Ocauçu                                             353370
+    384  Óleo                                               353380
+    385  Olímpia                                            353390
+    386  Onda Verde                                         353400
+    387  Oriente                                            353410
+    388  Orindiúva                                          353420
+    389  Orlândia                                           353430
+    390  Osasco                                             353440
+    391  Oscar Bressane                                     353450
+    392  Osvaldo Cruz                                       353460
+    393  Ourinhos                                           353470
+    394  Ouro Verde                                         353480
+    395  Ouroeste                                           353475
+    396  Pacaembu                                           353490
+    397  Palestina                                          353500
+    398  Palmares Paulista                                  353510
+    399  Palmeira d'Oeste                                   353520
+    400  Palmital                                           353530
+    401  Panorama                                           353540
+    402  Paraguaçu Paulista                                 353550
+    403  Paraibuna                                          353560
+    404  Paraíso                                            353570
+    405  Paranapanema                                       353580
+    406  Paranapuã                                          353590
+    407  Parapuã                                            353600
+    408  Pardinho                                           353610
+    409  Pariquera-Açu                                      353620
+    410  Parisi                                             353625
+    411  Patrocínio Paulista                                353630
+    412  Paulicéia                                          353640
+    413  Paulínia                                           353650
+    414  Paulistânia                                        353657
+    415  Paulo de Faria                                     353660
+    416  Pederneiras                                        353670
+    417  Pedra Bela                                         353680
+    418  Pedranópolis                                       353690
+    419  Pedregulho                                         353700
+    420  Pedreira                                           353710
+    421  Pedrinhas Paulista                                 353715
+    422  Pedro de Toledo                                    353720
+    423  Penápolis                                          353730
+    424  Pereira Barreto                                    353740
+    425  Pereiras                                           353750
+    426  Peruíbe                                            353760
+    427  Piacatu                                            353770
+    428  Piedade                                            353780
+    429  Pilar do Sul                                       353790
+    430  Pindamonhangaba                                    353800
+    431  Pindorama                                          353810
+    432  Pinhalzinho                                        353820
+    433  Piquerobi                                          353830
+    434  Piquete                                            353850
+    435  Piracaia                                           353860
+    436  Piracicaba                                         353870
+    437  Piraju                                             353880
+    438  Pirajuí                                            353890
+    439  Pirangi                                            353900
+    440  Pirapora do Bom Jesus                              353910
+    441  Pirapozinho                                        353920
+    442  Pirassununga                                       353930
+    443  Piratininga                                        353940
+    444  Pitangueiras                                       353950
+    445  Planalto                                           353960
+    446  Platina                                            353970
+    447  Poá                                                353980
+    448  Poloni                                             353990
+    449  Pompéia                                            354000
+    450  Pongaí                                             354010
+    451  Pontal                                             354020
+    452  Pontalinda                                         354025
+    453  Pontes Gestal                                      354030
+    454  Populina                                           354040
+    455  Porangaba                                          354050
+    456  Porto Feliz                                        354060
+    457  Porto Ferreira                                     354070
+    458  Potim                                              354075
+    459  Potirendaba                                        354080
+    460  Pracinha                                           354085
+    461  Pradópolis                                         354090
+    462  Praia Grande                                       354100
+    463  Pratânia                                           354105
+    464  Presidente Alves                                   354110
+    465  Presidente Bernardes                               354120
+    466  Presidente Epitácio                                354130
+    467  Presidente Prudente                                354140
+    468  Presidente Venceslau                               354150
+    469  Promissão                                          354160
+    470  Quadra                                             354165
+    471  Quatá                                              354170
+    472  Queiroz                                            354180
+    473  Queluz                                             354190
+    474  Quintana                                           354200
+    475  Rafard                                             354210
+    476  Rancharia                                          354220
+    477  Redenção da Serra                                  354230
+    478  Regente Feijó                                      354240
+    479  Reginópolis                                        354250
+    480  Registro                                           354260
+    481  Restinga                                           354270
+    482  Ribeira                                            354280
+    483  Ribeirão Bonito                                    354290
+    484  Ribeirão Branco                                    354300
+    485  Ribeirão Corrente                                  354310
+    486  Ribeirão do Sul                                    354320
+    487  Ribeirão dos Índios                                354323
+    488  Ribeirão Grande                                    354325
+    489  Ribeirão Pires                                     354330
+    490  Ribeirão Preto                                     354340
+    491  Rifaina                                            354360
+    492  Rincão                                             354370
+    493  Rinópolis                                          354380
+    494  Rio Claro                                          354390
+    495  Rio das Pedras                                     354400
+    496  Rio Grande da Serra                                354410
+    497  Riolândia                                          354420
+    498  Riversul                                           354350
+    499  Rosana                                             354425
+    500  Roseira                                            354430
+    501  Rubiácea                                           354440
+    502  Rubinéia                                           354450
+    503  Sabino                                             354460
+    504  Sagres                                             354470
+    505  Sales                                              354480
+    506  Sales Oliveira                                     354490
+    507  Salesópolis                                        354500
+    508  Salmourão                                          354510
+    509  Saltinho                                           354515
+    510  Salto                                              354520
+    511  Salto de Pirapora                                  354530
+    512  Salto Grande                                       354540
+    513  Sandovalina                                        354550
+    514  Santa Adélia                                       354560
+    515  Santa Albertina                                    354570
+    516  Santa Bárbara d'Oeste                              354580
+    517  Santa Branca                                       354600
+    518  Santa Clara d'Oeste                                354610
+    519  Santa Cruz da Conceição                            354620
+    520  Santa Cruz da Esperança                            354625
+    521  Santa Cruz das Palmeiras                           354630
+    522  Santa Cruz do Rio Pardo                            354640
+    523  Santa Ernestina                                    354650
+    524  Santa Fé do Sul                                    354660
+    525  Santa Gertrudes                                    354670
+    526  Santa Isabel                                       354680
+    527  Santa Lúcia                                        354690
+    528  Santa Maria da Serra                               354700
+    529  Santa Mercedes                                     354710
+    530  Santa Rita d'Oeste                                 354740
+    531  Santa Rita do Passa Quatro                         354750
+    532  Santa Rosa de Viterbo                              354760
+    533  Santa Salete                                       354765
+    534  Santana da Ponte Pensa                             354720
+    535  Santana de Parnaíba                                354730
+    536  Santo Anastácio                                    354770
+    537  Santo André                                        354780
+    538  Santo Antônio da Alegria                           354790
+    539  Santo Antônio de Posse                             354800
+    540  Santo Antônio do Aracanguá                         354805
+    541  Santo Antônio do Jardim                            354810
+    542  Santo Antônio do Pinhal                            354820
+    543  Santo Expedito                                     354830
+    544  Santópolis do Aguapeí                              354840
+    545  Santos                                             354850
+    546  São Bento do Sapucaí                               354860
+    547  São Bernardo do Campo                              354870
+    548  São Caetano do Sul                                 354880
+    549  São Carlos                                         354890
+    550  São Francisco                                      354900
+    551  São João da Boa Vista                              354910
+    552  São João das Duas Pontes                           354920
+    553  São João de Iracema                                354925
+    554  São João do Pau d'Alho                             354930
+    555  São Joaquim da Barra                               354940
+    556  São José da Bela Vista                             354950
+    557  São José do Barreiro                               354960
+    558  São José do Rio Pardo                              354970
+    559  São José do Rio Preto                              354980
+    560  São José dos Campos                                354990
+    561  São Lourenço da Serra                              354995
+    562  São Luís do Paraitinga                             355000
+    563  São Manuel                                         355010
+    564  São Miguel Arcanjo                                 355020
+    565  São Paulo                                          355030
+    565  São Paulo                                          358001
+    565  São Paulo                                          358002
+    565  São Paulo                                          358003
+    565  São Paulo                                          358004
+    565  São Paulo                                          358005
+    565  São Paulo                                          358006
+    565  São Paulo                                          358007
+    565  São Paulo                                          358008
+    565  São Paulo                                          358009
+    565  São Paulo                                          358010
+    565  São Paulo                                          358011
+    565  São Paulo                                          358012
+    565  São Paulo                                          358013
+    565  São Paulo                                          358014
+    565  São Paulo                                          358015
+    565  São Paulo                                          358016
+    565  São Paulo                                          358017
+    565  São Paulo                                          358018
+    565  São Paulo                                          358019
+    565  São Paulo                                          358020
+    565  São Paulo                                          358021
+    565  São Paulo                                          358022
+    565  São Paulo                                          358023
+    565  São Paulo                                          358024
+    565  São Paulo                                          358025
+    565  São Paulo                                          358026
+    565  São Paulo                                          358027
+    565  São Paulo                                          358028
+    565  São Paulo                                          358029
+    565  São Paulo                                          358030
+    565  São Paulo                                          358031
+    565  São Paulo                                          358032
+    565  São Paulo                                          358033
+    565  São Paulo                                          358034
+    565  São Paulo                                          358035
+    565  São Paulo                                          358036
+    565  São Paulo                                          358037
+    565  São Paulo                                          358038
+    565  São Paulo                                          358039
+    565  São Paulo                                          358040
+    565  São Paulo                                          358041
+    565  São Paulo                                          358042
+    565  São Paulo                                          358043
+    565  São Paulo                                          358044
+    565  São Paulo                                          358045
+    565  São Paulo                                          358046
+    565  São Paulo                                          358047
+    565  São Paulo                                          358048
+    565  São Paulo                                          358049
+    565  São Paulo                                          358050
+    565  São Paulo                                          358051
+    565  São Paulo                                          358052
+    565  São Paulo                                          358053
+    565  São Paulo                                          358054
+    565  São Paulo                                          358055
+    565  São Paulo                                          358056
+    565  São Paulo                                          358057
+    565  São Paulo                                          358058
+    566  São Pedro                                          355040
+    567  São Pedro do Turvo                                 355050
+    568  São Roque                                          355060
+    569  São Sebastião                                      355070
+    570  São Sebastião da Grama                             355080
+    571  São Simão                                          355090
+    572  São Vicente                                        355100
+    573  Sarapuí                                            355110
+    574  Sarutaiá                                           355120
+    575  Sebastianópolis do Sul                             355130
+    576  Serra Azul                                         355140
+    577  Serra Negra                                        355160
+    578  Serrana                                            355150
+    579  Sertãozinho                                        355170
+    580  Sete Barras                                        355180
+    581  Severínia                                          355190
+    582  Silveiras                                          355200
+    583  Socorro                                            355210
+    584  Sorocaba                                           355220
+    585  Sud Mennucci                                       355230
+    586  Sumaré                                             355240
+    587  Suzanápolis                                        355255
+    588  Suzano                                             355250
+    589  Tabapuã                                            355260
+    590  Tabatinga                                          355270
+    591  Taboão da Serra                                    355280
+    592  Taciba                                             355290
+    593  Taguaí                                             355300
+    594  Taiaçu                                             355310
+    595  Taiúva                                             355320
+    596  Tambaú                                             355330
+    597  Tanabi                                             355340
+    598  Tapiraí                                            355350
+    599  Tapiratiba                                         355360
+    600  Taquaral                                           355365
+    601  Taquaritinga                                       355370
+    602  Taquarituba                                        355380
+    603  Taquarivaí                                         355385
+    604  Tarabaí                                            355390
+    605  Tarumã                                             355395
+    606  Tatuí                                              355400
+    607  Taubaté                                            355410
+    608  Tejupá                                             355420
+    609  Teodoro Sampaio                                    355430
+    610  Terra Roxa                                         355440
+    611  Tietê                                              355450
+    612  Timburi                                            355460
+    613  Torre de Pedra                                     355465
+    614  Torrinha                                           355470
+    615  Trabiju                                            355475
+    616  Tremembé                                           355480
+    617  Três Fronteiras                                    355490
+    618  Tuiuti                                             355495
+    619  Tupã                                               355500
+    620  Tupi Paulista                                      355510
+    621  Turiúba                                            355520
+    622  Turmalina                                          355530
+    623  Ubarana                                            355535
+    624  Ubatuba                                            355540
+    625  Ubirajara                                          355550
+    626  Uchoa                                              355560
+    627  União Paulista                                     355570
+    628  Urânia                                             355580
+    629  Uru                                                355590
+    630  Urupês                                             355600
+    631  Valentim Gentil                                    355610
+    632  Valinhos                                           355620
+    633  Valparaíso                                         355630
+    634  Vargem                                             355635
+    635  Vargem Grande do Sul                               355640
+    636  Vargem Grande Paulista                             355645
+    637  Várzea Paulista                                    355650
+    638  Vera Cruz                                          355660
+    639  Vinhedo                                            355670
+    640  Viradouro                                          355680
+    641  Vista Alegre do Alto                               355690
+    642  Vitória Brasil                                     355695
+    643  Votorantim                                         355700
+    644  Votuporanga                                        355710
+    645  Zacarias                                           355715
+    646  Município ignorado - SP                            350000
+    646  Município ignorado - SP                            359999
+

@@ -1,0 +1,402 @@
+     40  6                                                        
+      1  41001 Paranavaí                                    410060
+      1  41001 Paranavaí                                    410090
+      1  41001 Paranavaí                                    410670
+      1  41001 Paranavaí                                    410710
+      1  41001 Paranavaí                                    410890
+      1  41001 Paranavaí                                    411030
+      1  41001 Paranavaí                                    411130
+      1  41001 Paranavaí                                    411260
+      1  41001 Paranavaí                                    411350
+      1  41001 Paranavaí                                    411500
+      1  41001 Paranavaí                                    411590
+      1  41001 Paranavaí                                    411650
+      1  41001 Paranavaí                                    411710
+      1  41001 Paranavaí                                    411800
+      1  41001 Paranavaí                                    411810
+      1  41001 Paranavaí                                    411830
+      1  41001 Paranavaí                                    411840
+      1  41001 Paranavaí                                    411970
+      1  41001 Paranavaí                                    412020
+      1  41001 Paranavaí                                    412100
+      1  41001 Paranavaí                                    412330
+      1  41001 Paranavaí                                    412370
+      1  41001 Paranavaí                                    412395
+      1  41001 Paranavaí                                    412420
+      1  41001 Paranavaí                                    412460
+      1  41001 Paranavaí                                    412490
+      1  41001 Paranavaí                                    412590
+      1  41001 Paranavaí                                    412670
+      1  41001 Paranavaí                                    412730
+      2  41002 Umuarama                                     410050
+      2  41002 Umuarama                                     410070
+      2  41002 Umuarama                                     410337
+      2  41002 Umuarama                                     410347
+      2  41002 Umuarama                                     410660
+      2  41002 Umuarama                                     410725
+      2  41002 Umuarama                                     410752
+      2  41002 Umuarama                                     410832
+      2  41002 Umuarama                                     410990
+      2  41002 Umuarama                                     411060
+      2  41002 Umuarama                                     411155
+      2  41002 Umuarama                                     411470
+      2  41002 Umuarama                                     411510
+      2  41002 Umuarama                                     411720
+      2  41002 Umuarama                                     411885
+      2  41002 Umuarama                                     411890
+      2  41002 Umuarama                                     412535
+      2  41002 Umuarama                                     412690
+      2  41002 Umuarama                                     412810
+      2  41002 Umuarama                                     412862
+      2  41002 Umuarama                                     412880
+      3  41003 Cianorte                                     410550
+      3  41003 Cianorte                                     410560
+      3  41003 Cianorte                                     410910
+      3  41003 Cianorte                                     411040
+      3  41003 Cianorte                                     411240
+      3  41003 Cianorte                                     411300
+      3  41003 Cianorte                                     412260
+      3  41003 Cianorte                                     412555
+      3  41003 Cianorte                                     412610
+      3  41003 Cianorte                                     412680
+      3  41003 Cianorte                                     412790
+      4  41004 Goioerê                                      410045
+      4  41004 Goioerê                                      410300
+      4  41004 Goioerê                                      410390
+      4  41004 Goioerê                                      410860
+      4  41004 Goioerê                                      411220
+      4  41004 Goioerê                                      411295
+      4  41004 Goioerê                                      411610
+      4  41004 Goioerê                                      411680
+      4  41004 Goioerê                                      412065
+      4  41004 Goioerê                                      412135
+      4  41004 Goioerê                                      412800
+      5  41005 Campo Mourão                                 410170
+      5  41005 Campo Mourão                                 410250
+      5  41005 Campo Mourão                                 410430
+      5  41005 Campo Mourão                                 410655
+      5  41005 Campo Mourão                                 410750
+      5  41005 Campo Mourão                                 410755
+      5  41005 Campo Mourão                                 410770
+      5  41005 Campo Mourão                                 411080
+      5  41005 Campo Mourão                                 411373
+      5  41005 Campo Mourão                                 411400
+      5  41005 Campo Mourão                                 411880
+      5  41005 Campo Mourão                                 412110
+      5  41005 Campo Mourão                                 412250
+      5  41005 Campo Mourão                                 412720
+      6  41006 Astorga                                      410115
+      6  41006 Astorga                                      410210
+      6  41006 Astorga                                      410220
+      6  41006 Astorga                                      410340
+      6  41006 Astorga                                      410510
+      6  41006 Astorga                                      410590
+      6  41006 Astorga                                      410810
+      6  41006 Astorga                                      410920
+      6  41006 Astorga                                      411000
+      6  41006 Astorga                                      411090
+      6  41006 Astorga                                      411190
+      6  41006 Astorga                                      411360
+      6  41006 Astorga                                      411380
+      6  41006 Astorga                                      411410
+      6  41006 Astorga                                      411630
+      6  41006 Astorga                                      411640
+      6  41006 Astorga                                      411690
+      6  41006 Astorga                                      412040
+      6  41006 Astorga                                      412340
+      6  41006 Astorga                                      412360
+      6  41006 Astorga                                      412450
+      6  41006 Astorga                                      412830
+      7  41007 Porecatu                                     410080
+      7  41007 Porecatu                                     410280
+      7  41007 Porecatu                                     410800
+      7  41007 Porecatu                                     411600
+      7  41007 Porecatu                                     412000
+      7  41007 Porecatu                                     412033
+      7  41007 Porecatu                                     412050
+      7  41007 Porecatu                                     412650
+      8  41008 Floraí                                       410730
+      8  41008 Floraí                                       410780
+      8  41008 Floraí                                       410790
+      8  41008 Floraí                                       411110
+      8  41008 Floraí                                       411160
+      8  41008 Floraí                                       411740
+      8  41008 Floraí                                       412530
+      9  41009 Maringá                                      411420
+      9  41009 Maringá                                      411480
+      9  41009 Maringá                                      411520
+      9  41009 Maringá                                      411750
+      9  41009 Maringá                                      412625
+     10  41010 Apucarana                                    410140
+     10  41010 Apucarana                                    410150
+     10  41010 Apucarana                                    410350
+     10  41010 Apucarana                                    410380
+     10  41010 Apucarana                                    411210
+     10  41010 Apucarana                                    411490
+     10  41010 Apucarana                                    411575
+     10  41010 Apucarana                                    411729
+     10  41010 Apucarana                                    412270
+     11  41011 Londrina                                     410370
+     11  41011 Londrina                                     410980
+     11  41011 Londrina                                     411370
+     11  41011 Londrina                                     411965
+     11  41011 Londrina                                     412240
+     11  41011 Londrina                                     412667
+     12  41012 Faxinal                                      410320
+     12  41012 Faxinal                                      410330
+     12  41012 Faxinal                                      410685
+     12  41012 Faxinal                                      410760
+     12  41012 Faxinal                                      411310
+     12  41012 Faxinal                                      411550
+     12  41012 Faxinal                                      412210
+     13  41013 Ivaiporã                                     410165
+     13  41013 Ivaiporã                                     410185
+     13  41013 Ivaiporã                                     410440
+     13  41013 Ivaiporã                                     410855
+     13  41013 Ivaiporã                                     410870
+     13  41013 Ivaiporã                                     411150
+     13  41013 Ivaiporã                                     411250
+     13  41013 Ivaiporã                                     411342
+     13  41013 Ivaiporã                                     411375
+     13  41013 Ivaiporã                                     411450
+     13  41013 Ivaiporã                                     411727
+     13  41013 Ivaiporã                                     412217
+     13  41013 Ivaiporã                                     412265
+     13  41013 Ivaiporã                                     412500
+     13  41013 Ivaiporã                                     412580
+     14  41014 Assaí                                        410190
+     14  41014 Assaí                                        411270
+     14  41014 Assaí                                        411721
+     14  41014 Assaí                                        412130
+     14  41014 Assaí                                        412320
+     14  41014 Assaí                                        412470
+     14  41014 Assaí                                        412600
+     14  41014 Assaí                                        412840
+     15  41015 Corn.Procópio                                410010
+     15  41015 Corn.Procópio                                410110
+     15  41015 Corn.Procópio                                410240
+     15  41015 Corn.Procópio                                410600
+     15  41015 Corn.Procópio                                410640
+     15  41015 Corn.Procópio                                411100
+     15  41015 Corn.Procópio                                411340
+     15  41015 Corn.Procópio                                411660
+     15  41015 Corn.Procópio                                411700
+     15  41015 Corn.Procópio                                412190
+     15  41015 Corn.Procópio                                412310
+     15  41015 Corn.Procópio                                412390
+     15  41015 Corn.Procópio                                412430
+     15  41015 Corn.Procópio                                412640
+     16  41016 Jacarezinho                                  410270
+     16  41016 Jacarezinho                                  410360
+     16  41016 Jacarezinho                                  411180
+     16  41016 Jacarezinho                                  411290
+     16  41016 Jacarezinho                                  412180
+     16  41016 Jacarezinho                                  412410
+     17  41017 Ibaiti                                       410610
+     17  41017 Ibaiti                                       410700
+     17  41017 Ibaiti                                       410775
+     17  41017 Ibaiti                                       410970
+     17  41017 Ibaiti                                       411170
+     17  41017 Ibaiti                                       411230
+     17  41017 Ibaiti                                       411920
+     17  41017 Ibaiti                                       412620
+     18  41018 Wenceslau Braz                               410470
+     18  41018 Wenceslau Braz                               410900
+     18  41018 Wenceslau Braz                               411280
+     18  41018 Wenceslau Braz                               412070
+     18  41018 Wenceslau Braz                               412290
+     18  41018 Wenceslau Braz                               412400
+     18  41018 Wenceslau Braz                               412540
+     18  41018 Wenceslau Braz                               412660
+     18  41018 Wenceslau Braz                               412780
+     18  41018 Wenceslau Braz                               412850
+     19  41019 Telêmaco Borba                               411007
+     19  41019 Telêmaco Borba                               411730
+     19  41019 Telêmaco Borba                               412170
+     19  41019 Telêmaco Borba                               412710
+     19  41019 Telêmaco Borba                               412750
+     19  41019 Telêmaco Borba                               412853
+     20  41020 Jaguariaíva                                  410160
+     20  41020 Jaguariaíva                                  411200
+     20  41020 Jaguariaíva                                  411940
+     20  41020 Jaguariaíva                                  412630
+     21  41021 Ponta Grossa                                 410465
+     21  41021 Ponta Grossa                                 410490
+     21  41021 Ponta Grossa                                 411770
+     21  41021 Ponta Grossa                                 411990
+     22  41022 Toledo                                       410200
+     22  41022 Toledo                                       410715
+     22  41022 Toledo                                       410753
+     22  41022 Toledo                                       410820
+     22  41022 Toledo                                       410880
+     22  41022 Toledo                                       411065
+     22  41022 Toledo                                       411275
+     22  41022 Toledo                                       411460
+     22  41022 Toledo                                       411535
+     22  41022 Toledo                                       411585
+     22  41022 Toledo                                       411722
+     22  41022 Toledo                                       411745
+     22  41022 Toledo                                       411790
+     22  41022 Toledo                                       411845
+     22  41022 Toledo                                       412085
+     22  41022 Toledo                                       412350
+     22  41022 Toledo                                       412545
+     22  41022 Toledo                                       412575
+     22  41022 Toledo                                       412740
+     22  41022 Toledo                                       412770
+     22  41022 Toledo                                       412795
+     23  41023 Cascavel PR                                  410105
+     23  41023 Cascavel PR                                  410305
+     23  41023 Cascavel PR                                  410335
+     23  41023 Cascavel PR                                  410345
+     23  41023 Cascavel PR                                  410405
+     23  41023 Cascavel PR                                  410460
+     23  41023 Cascavel PR                                  410480
+     23  41023 Cascavel PR                                  410500
+     23  41023 Cascavel PR                                  410630
+     23  41023 Cascavel PR                                  410712
+     23  41023 Cascavel PR                                  410930
+     23  41023 Cascavel PR                                  410975
+     23  41023 Cascavel PR                                  411005
+     23  41023 Cascavel PR                                  411345
+     23  41023 Cascavel PR                                  411670
+     23  41023 Cascavel PR                                  412382
+     23  41023 Cascavel PR                                  412402
+     23  41023 Cascavel PR                                  412785
+     24  41024 Foz do Iguaçu                                410530
+     24  41024 Foz do Iguaçu                                410830
+     24  41024 Foz do Iguaçu                                411095
+     24  41024 Foz do Iguaçu                                411560
+     24  41024 Foz do Iguaçu                                411580
+     24  41024 Foz do Iguaçu                                411605
+     24  41024 Foz do Iguaçu                                412125
+     24  41024 Foz do Iguaçu                                412405
+     24  41024 Foz do Iguaçu                                412570
+     24  41024 Foz do Iguaçu                                412635
+     24  41024 Foz do Iguaçu                                412855
+     25  41025 Capanema                                     410100
+     25  41025 Capanema                                     410275
+     25  41025 Capanema                                     410450
+     25  41025 Capanema                                     411900
+     25  41025 Capanema                                     411980
+     25  41025 Capanema                                     412035
+     25  41025 Capanema                                     412140
+     25  41025 Capanema                                     412380
+     26  41026 Franc.Beltrão                                410260
+     26  41026 Franc.Beltrão                                410302
+     26  41026 Franc.Beltrão                                410315
+     26  41026 Franc.Beltrão                                410657
+     26  41026 Franc.Beltrão                                410720
+     26  41026 Franc.Beltrão                                410740
+     26  41026 Franc.Beltrão                                410785
+     26  41026 Franc.Beltrão                                410840
+     26  41026 Franc.Beltrão                                411435
+     26  41026 Franc.Beltrão                                411540
+     26  41026 Franc.Beltrão                                411695
+     26  41026 Franc.Beltrão                                411725
+     26  41026 Franc.Beltrão                                411925
+     26  41026 Franc.Beltrão                                412160
+     26  41026 Franc.Beltrão                                412280
+     26  41026 Franc.Beltrão                                412300
+     26  41026 Franc.Beltrão                                412440
+     26  41026 Franc.Beltrão                                412520
+     26  41026 Franc.Beltrão                                412860
+     27  41027 Pato Branco                                  410322
+     27  41027 Pato Branco                                  410540
+     27  41027 Pato Branco                                  410650
+     27  41027 Pato Branco                                  411120
+     27  41027 Pato Branco                                  411530
+     27  41027 Pato Branco                                  411850
+     27  41027 Pato Branco                                  412480
+     27  41027 Pato Branco                                  412627
+     27  41027 Pato Branco                                  412665
+     27  41027 Pato Branco                                  412870
+     28  41028 Pitanga                                      410304
+     28  41028 Pitanga                                      411325
+     28  41028 Pitanga                                      411573
+     28  41028 Pitanga                                      411780
+     28  41028 Pitanga                                      411960
+     28  41028 Pitanga                                      412385
+     29  41029 Guarapuava                                   410395
+     29  41029 Guarapuava                                   410442
+     29  41029 Guarapuava                                   410445
+     29  41029 Guarapuava                                   410754
+     29  41029 Guarapuava                                   410845
+     29  41029 Guarapuava                                   410865
+     29  41029 Guarapuava                                   410940
+     29  41029 Guarapuava                                   411020
+     29  41029 Guarapuava                                   411330
+     29  41029 Guarapuava                                   411545
+     29  41029 Guarapuava                                   411705
+     29  41029 Guarapuava                                   411930
+     29  41029 Guarapuava                                   412015
+     29  41029 Guarapuava                                   412090
+     29  41029 Guarapuava                                   412175
+     29  41029 Guarapuava                                   412215
+     29  41029 Guarapuava                                   412796
+     29  41029 Guarapuava                                   412865
+     30  41030 Palmas                                       410570
+     30  41030 Palmas                                       410645
+     30  41030 Palmas                                       410965
+     30  41030 Palmas                                       411440
+     30  41030 Palmas                                       411760
+     31  41031 Prudentópolis                                410773
+     31  41031 Prudentópolis                                410895
+     31  41031 Prudentópolis                                411010
+     31  41031 Prudentópolis                                411050
+     31  41031 Prudentópolis                                411140
+     31  41031 Prudentópolis                                412060
+     31  41031 Prudentópolis                                412700
+     32  41032 Irati                                        411070
+     32  41032 Irati                                        411390
+     32  41032 Irati                                        412150
+     32  41032 Irati                                        412200
+     33  41033 União Vitória                                410290
+     33  41033 União Vitória                                410680
+     33  41033 União Vitória                                410850
+     33  41033 União Vitória                                411860
+     33  41033 União Vitória                                411870
+     33  41033 União Vitória                                412030
+     33  41033 União Vitória                                412820
+     34  41034 S.Mateus do Sul                              410130
+     34  41034 S.Mateus do Sul                              412510
+     34  41034 S.Mateus do Sul                              412560
+     35  41035 Cerro Azul                                   410020
+     35  41035 Cerro Azul                                   410520
+     35  41035 Cerro Azul                                   412863
+     36  41036 Lapa                                         411320
+     36  41036 Lapa                                         412010
+     37  41037 Curitiba                                     410040
+     37  41037 Curitiba                                     410180
+     37  41037 Curitiba                                     410230
+     37  41037 Curitiba                                     410310
+     37  41037 Curitiba                                     410400
+     37  41037 Curitiba                                     410420
+     37  41037 Curitiba                                     410425
+     37  41037 Curitiba                                     410580
+     37  41037 Curitiba                                     410620
+     37  41037 Curitiba                                     410690
+     37  41037 Curitiba                                     410765
+     37  41037 Curitiba                                     411125
+     37  41037 Curitiba                                     411430
+     37  41037 Curitiba                                     411915
+     37  41037 Curitiba                                     411950
+     37  41037 Curitiba                                     412080
+     37  41037 Curitiba                                     412220
+     37  41037 Curitiba                                     412550
+     37  41037 Curitiba                                     412788
+     38  41038 Paranaguá                                    410120
+     38  41038 Paranaguá                                    410950
+     38  41038 Paranaguá                                    410960
+     38  41038 Paranaguá                                    411570
+     38  41038 Paranaguá                                    411620
+     38  41038 Paranaguá                                    411820
+     38  41038 Paranaguá                                    411995
+     39  41039 Rio Negro PR                                 410030
+     39  41039 Rio Negro PR                                 410410
+     39  41039 Rio Negro PR                                 411910
+     39  41039 Rio Negro PR                                 412120
+     39  41039 Rio Negro PR                                 412230
+     39  41039 Rio Negro PR                                 412760
+     40  41000 Ignorado - PR                                410000
+

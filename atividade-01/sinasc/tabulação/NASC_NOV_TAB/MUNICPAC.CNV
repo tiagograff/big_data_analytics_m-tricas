@@ -1,0 +1,147 @@
+    144  6                                                        
+      1  Abaetetuba                                         150010
+      2  Abel Figueiredo                                    150013
+      3  Acará                                              150020
+      4  Afuá                                               150030
+      5  Água Azul do Norte                                 150034
+      6  Alenquer                                           150040
+      7  Almeirim                                           150050
+      8  Altamira                                           150060
+      9  Anajás                                             150070
+     10  Ananindeua                                         150080
+     11  Anapu                                              150085
+     12  Augusto Corrêa                                     150090
+     13  Aurora do Pará                                     150095
+     14  Aveiro                                             150100
+     15  Bagre                                              150110
+     16  Baião                                              150120
+     17  Bannach                                            150125
+     18  Barcarena                                          150130
+     19  Belém                                              150140
+     20  Belterra                                           150145
+     21  Benevides                                          150150
+     22  Bom Jesus do Tocantins                             150157
+     23  Bonito                                             150160
+     24  Bragança                                           150170
+     25  Brasil Novo                                        150172
+     26  Brejo Grande do Araguaia                           150175
+     27  Breu Branco                                        150178
+     28  Breves                                             150180
+     29  Bujaru                                             150190
+     30  Cachoeira do Arari                                 150200
+     31  Cachoeira do Piriá                                 150195
+     32  Cametá                                             150210
+     33  Canaã dos Carajás                                  150215
+     34  Capanema                                           150220
+     35  Capitão Poço                                       150230
+     36  Castanhal                                          150240
+     37  Chaves                                             150250
+     38  Colares                                            150260
+     39  Conceição do Araguaia                              150270
+     40  Concórdia do Pará                                  150275
+     41  Cumaru do Norte                                    150276
+     42  Curionópolis                                       150277
+     43  Curralinho                                         150280
+     44  Curuá                                              150285
+     45  Curuçá                                             150290
+     46  Dom Eliseu                                         150293
+     47  Eldorado dos Carajás                               150295
+     48  Faro                                               150300
+     49  Floresta do Araguaia                               150304
+     50  Garrafão do Norte                                  150307
+     51  Goianésia do Pará                                  150309
+     52  Gurupá                                             150310
+     53  Igarapé-Açu                                        150320
+     54  Igarapé-Miri                                       150330
+     55  Inhangapi                                          150340
+     56  Ipixuna do Pará                                    150345
+     57  Irituia                                            150350
+     58  Itaituba                                           150360
+     59  Itupiranga                                         150370
+     60  Jacareacanga                                       150375
+     61  Jacundá                                            150380
+     62  Juruti                                             150390
+     63  Limoeiro do Ajuru                                  150400
+     64  Mãe do Rio                                         150405
+     65  Magalhães Barata                                   150410
+     66  Marabá                                             150420
+     67  Maracanã                                           150430
+     68  Marapanim                                          150440
+     69  Marituba                                           150442
+     70  Medicilândia                                       150445
+     71  Melgaço                                            150450
+     72  Mocajuba                                           150460
+     73  Moju                                               150470
+     74  Monte Alegre                                       150480
+     75  Muaná                                              150490
+     76  Nova Esperança do Piriá                            150495
+     77  Nova Ipixuna                                       150497
+     78  Nova Timboteua                                     150500
+     79  Novo Progresso                                     150503
+     80  Novo Repartimento                                  150506
+     81  Óbidos                                             150510
+     82  Oeiras do Pará                                     150520
+     83  Oriximiná                                          150530
+     84  Ourém                                              150540
+     85  Ourilândia do Norte                                150543
+     86  Pacajá                                             150548
+     87  Palestina do Pará                                  150549
+     88  Paragominas                                        150550
+     89  Parauapebas                                        150553
+     90  Pau d'Arco                                         150555
+     91  Peixe-Boi                                          150560
+     92  Piçarra                                            150563
+     93  Placas                                             150565
+     94  Ponta de Pedras                                    150570
+     95  Portel                                             150580
+     96  Porto de Moz                                       150590
+     97  Prainha                                            150600
+     98  Primavera                                          150610
+     99  Quatipuru                                          150611
+    100  Redenção                                           150613
+    101  Rio Maria                                          150616
+    102  Rondon do Pará                                     150618
+    103  Rurópolis                                          150619
+    104  Salinópolis                                        150620
+    105  Salvaterra                                         150630
+    106  Santa Bárbara do Pará                              150635
+    107  Santa Cruz do Arari                                150640
+    108  Santa Isabel do Pará                               150650
+    109  Santa Luzia do Pará                                150655
+    110  Santa Maria das Barreiras                          150658
+    111  Santa Maria do Pará                                150660
+    112  Santana do Araguaia                                150670
+    113  Santarém                                           150680
+    114  Santarém Novo                                      150690
+    115  Santo Antônio do Tauá                              150700
+    116  São Caetano de Odivelas                            150710
+    117  São Domingos do Araguaia                           150715
+    118  São Domingos do Capim                              150720
+    119  São Félix do Xingu                                 150730
+    120  São Francisco do Pará                              150740
+    121  São Geraldo do Araguaia                            150745
+    122  São João da Ponta                                  150746
+    123  São João de Pirabas                                150747
+    124  São João do Araguaia                               150750
+    125  São Miguel do Guamá                                150760
+    126  São Sebastião da Boa Vista                         150770
+    127  Sapucaia                                           150775
+    128  Senador José Porfírio                              150780
+    129  Soure                                              150790
+    130  Tailândia                                          150795
+    131  Terra Alta                                         150796
+    132  Terra Santa                                        150797
+    133  Tomé-Açu                                           150800
+    134  Tracuateua                                         150803
+    135  Trairão                                            150805
+    136  Tucumã                                             150808
+    137  Tucuruí                                            150810
+    138  Ulianópolis                                        150812
+    139  Uruará                                             150815
+    140  Vigia                                              150820
+    141  Viseu                                              150830
+    142  Vitória do Xingu                                   150835
+    143  Xinguara                                           150840
+    144  Município ignorado - PA                            150000
+    144  Município ignorado - PA                            159999
+
